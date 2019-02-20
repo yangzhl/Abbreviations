@@ -1,0 +1,3227 @@
+dictionary application	32	0	Dictionary application			
+alabama	319	0	Alabama			
+al	319	0	AL			Alabama
+alaska	474	0	Alaska			
+ak	474	0	AK			Alaska
+arizona	628	0	Arizona			
+az	628	0	AZ			Arizona
+arkansas	783	0	Arkansas			
+ar	783	0	AR			Arkansas
+california	938	0	California			
+ca	938	0	CA			California
+colorado	1093	0	Colorado			
+co	1093	0	CO			Colorado
+connecticut	1248	0	Connecticut			
+ct	1248	0	CT			Connecticut
+delaware	1403	0	Delaware			
+de	1403	0	DE			Delaware
+florida	1556	0	Florida			
+fl	1556	0	FL			Florida
+georgia	1710	0	Georgia			
+ga	1710	0	GA			Georgia
+hawaii	1865	0	Hawaii			
+hi	1865	0	HI			Hawaii
+idaho	2017	0	Idaho			
+id	2017	0	ID			Idaho
+illinois	2167	0	Illinois			
+il	2167	0	IL			Illinois
+indiana	2322	0	Indiana			
+in	2322	0	IN			Indiana
+iowa	2476	0	Iowa			
+ia	2476	0	IA			Iowa
+kansas	2627	0	Kansas			
+ks	2627	0	KS			Kansas
+kentucky	2779	0	Kentucky			
+ky	2779	0	KY			Kentucky
+louisiana	2934	0	Louisiana			
+la	2934	0	LA			Louisiana
+maine	3089	0	Maine			
+me	3089	0	ME			Maine
+maryland	3240	0	Maryland			
+md	3240	0	MD			Maryland
+massachusetts	3393	0	Massachusetts			
+ma	3393	0	MA			Massachusetts
+michigan	3553	0	Michigan			
+mi	3553	0	MI			Michigan
+minnesota	3709	0	Minnesota			
+mn	3709	0	MN			Minnesota
+mississippi	3863	0	Mississippi			
+ms	3863	0	MS			Mississippi
+missouri	4017	0	Missouri			
+mo	4017	0	MO			Missouri
+montana	4172	0	Montana			
+mt	4172	0	MT			Montana
+nebraska	4326	0	Nebraska			
+ne	4326	0	NE			Nebraska
+nevada	4482	0	Nevada			
+nv	4482	0	NV			Nevada
+newhampshire	4634	0	NewHampshire			
+nh	4634	0	NH			NewHampshire
+newjersey	4793	0	NewJersey			
+nj	4793	0	NJ			NewJersey
+newmexico	4949	0	NewMexico			
+nm	4949	0	NM			NewMexico
+newyork	5104	0	NewYork			
+ny	5104	0	NY			NewYork
+northcarolina	5258	0	NorthCarolina			
+nc	5258	0	NC			NorthCarolina
+northdakota	5417	0	NorthDakota			
+nd	5417	0	ND			NorthDakota
+ohio	5573	0	Ohio			
+oh	5573	0	OH			Ohio
+oklahoma	5724	0	Oklahoma			
+ok	5724	0	OK			Oklahoma
+oregon	5881	0	Oregon			
+or	5881	0	OR			Oregon
+pennsylvania	6034	0	Pennsylvania			
+pa	6034	0	PA			Pennsylvania
+rhodeisland	6193	0	RhodeIsland			
+ri	6193	0	RI			RhodeIsland
+southcarolina	6350	0	SouthCarolina			
+sc	6350	0	SC			SouthCarolina
+southdakota	6508	0	SouthDakota			
+sd	6508	0	SD			SouthDakota
+tennessee	6663	0	Tennessee			
+tn	6663	0	TN			Tennessee
+texas	6817	0	Texas			
+tx	6817	0	TX			Texas
+utah	6967	0	Utah			
+ut	6967	0	UT			Utah
+vermont	7117	0	Vermont			
+vt	7117	0	VT			Vermont
+virginia	7271	0	Virginia			
+va	7271	0	VA			Virginia
+washington	7425	0	Washington			
+wa	7425	0	WA			Washington
+westvirginia	7582	0	WestVirginia			
+wv	7582	0	WV			WestVirginia
+wisconsin	7739	0	Wisconsin			
+wi	7739	0	WI			Wisconsin
+wyoming	7893	0	Wyoming			
+wy	7893	0	WY			Wyoming
+abbreviation	8046	0	abbreviation			
+abbrev	8046	0	abbrev			abbreviation
+aberdeen	8201	0	aberdeen			
+abd	8201	0	abd			aberdeen
+aberd	8201	0	aberd			aberdeen
+aberdeenshire	8359	0	aberdeenshire			
+aberdeensh	8359	0	aberdeensh			aberdeenshire
+ablative	8518	0	ablative			
+abl	8518	0	abl			ablative
+abolition	8671	0	abolition			
+abol	8671	0	abol			abolition
+aboriginal	8823	0	aboriginal			
+aborig	8823	0	aborig			aboriginal
+abridged	8977	0	abridged			
+abr	8977	0	abr			abridged
+abridg	8977	0	abridg			abridged
+abridgement	9135	0	abridgement			
+abridgem	9135	0	abridgem			abridgement
+absolute	9291	0	absolute			
+absol	9291	0	absol			absolute
+abs	9291	0	abs			absolute
+absolutely	9448	0	absolutely			
+absol	9448	0	absol			absolutely
+abstract	9603	0	abstract			
+abst	9603	0	abst			abstract
+abstr	9603	0	abstr			abstract
+abstracts	9761	0	abstracts			
+abst	9761	0	abst			abstracts
+abstr	9761	0	abstr			abstracts
+academia	9920	0	academia			
+acad	9920	0	acad			academia
+academic	10073	0	academic			
+acad	10073	0	acad			academic
+academical	10226	0	academical			
+acad	10226	0	acad			academical
+academy	10381	0	academy			
+acad	10381	0	acad			academy
+acceptance	10533	0	acceptance			
+accept	10533	0	accept			acceptance
+accommodation	10687	0	accommodation			
+accomm	10687	0	accomm			accommodation
+accomplished	10843	0	accomplished			
+accompl	10843	0	accompl			accomplished
+according	10999	0	according			
+acc	10999	0	acc			according
+account	11150	0	account			
+acc	11150	0	acc			account
+acct	11150	0	acct			account
+accounts	11306	0	accounts			
+acc	11306	0	acc			accounts
+accs	11306	0	accs			accounts
+accts	11306	0	accts			accounts
+accusative	11466	0	accusative			
+acc	11466	0	acc			accusative
+accus	11466	0	accus			accusative
+achievement	11626	0	achievement			
+achievem	11626	0	achievem			achievement
+addenda	11782	0	addenda			
+add	11782	0	add			addenda
+addendum	11934	0	addendum			
+add	11934	0	add			addendum
+addition	12088	0	addition			
+addit	12088	0	addit			addition
+address	12240	0	address			
+addr	12240	0	addr			address
+adjectival	12392	0	adjectival			
+adj	12392	0	adj			adjectival
+adjective	12545	0	adjective			
+adj	12545	0	adj			adjective
+adjectives	12697	0	adjectives			
+adjs	12697	0	adjs			adjectives
+adjunct	12852	0	adjunct			
+adj	12852	0	adj			adjunct
+administration	13004	0	administration			
+admin	13004	0	admin			administration
+administrative	13161	0	administrative			
+admin	13161	0	admin			administrative
+admiral	13318	0	admiral			
+adm	13318	0	adm			admiral
+admiralty	13470	0	admiralty			
+adm	13470	0	adm			admiralty
+admir	13470	0	admir			admiralty
+admonition	13628	0	admonition			
+admon	13628	0	admon			admonition
+admonit	13628	0	admonit			admonition
+advanced	13786	0	advanced			
+adv	13786	0	adv			advanced
+advancement	13939	0	advancement			
+advancem	13939	0	advancem			advancement
+advances	14094	0	advances			
+adv	14094	0	adv			advances
+adventure	14246	0	adventure			
+adv	14246	0	adv			adventure
+adverb	14398	0	adverb			
+adv	14398	0	adv			adverb
+advb	14398	0	advb			adverb
+adverbial	14554	0	adverbial			
+adv	14554	0	adv			adverbial
+advb	14554	0	advb			adverbial
+adverbially	14711	0	adverbially			
+adv	14711	0	adv			adverbially
+advb	14711	0	advb			adverbially
+adverbs	14870	0	adverbs			
+advs	14870	0	advs			adverbs
+advertisement	15023	0	advertisement			
+abvt	15023	0	abvt			advertisement
+advert	15023	0	advert			advertisement
+advertisements	15184	0	advertisements			
+advts	15184	0	advts			advertisements
+advices	15342	0	advices			
+adv	15342	0	adv			advices
+advocate	15493	0	advocate			
+adv	15493	0	adv			advocate
+advoc	15493	0	advoc			advocate
+aerodynamics	15651	0	aerodynamics			
+aerodynam	15651	0	aerodynam			aerodynamics
+aeronautical	15808	0	aeronautical			
+aeronaut	15808	0	aeronaut			aeronautical
+aeronautics	15965	0	aeronautics			
+aeronaut	15965	0	aeronaut			aeronautics
+affairs	16121	0	affairs			
+aff	16121	0	aff			affairs
+affecting	16273	0	affecting			
+affect	16273	0	affect			affecting
+affection	16425	0	affection			
+affect	16425	0	affect			affection
+africa	16577	0	africa			
+afr	16577	0	afr			africa
+african	16728	0	african			
+afr	16728	0	afr			african
+against	16880	0	against			
+agst	16880	0	agst			against
+agricultural	17034	0	agricultural			
+agric	17034	0	agric			agricultural
+agriculture	17191	0	agriculture			
+agric	17191	0	agric			agriculture
+alchemy	17347	0	alchemy			
+alch	17347	0	alch			alchemy
+algebra	17499	0	algebra			
+alg	17499	0	alg			algebra
+allegiance	17652	0	allegiance			
+alleg	17652	0	alleg			allegiance
+alliterative	17807	0	alliterative			
+allit	17807	0	allit			alliterative
+allocate	17962	0	allocate			
+alloc	17962	0	alloc			allocate
+allocation	18115	0	allocation			
+alloc	18115	0	alloc			allocation
+almanac	18268	0	almanac			
+alm	18268	0	alm			almanac
+alphabet	18420	0	alphabet			
+alph	18420	0	alph			alphabet
+alphabetical	18574	0	alphabetical			
+alph	18574	0	alph			alphabetical
+alteration	18730	0	alteration			
+alt	18730	0	alt			alteration
+america	18883	0	america			
+amer	18883	0	amer			america
+american	19035	0	american			
+amer	19035	0	amer			american
+analysis	19188	0	analysis			
+anal	19188	0	anal			analysis
+analytic	19341	0	analytic			
+analyt	19341	0	analyt			analytic
+analytical	19494	0	analytical			
+analyt	19494	0	analyt			analytical
+anatomical	19649	0	anatomical			
+anat	19649	0	anat			anatomical
+anatomy	19804	0	anatomy			
+anat	19804	0	anat			anatomy
+ancient	19957	0	ancient			
+anc	19957	0	anc			ancient
+anecdotes	20108	0	anecdotes			
+anecd	20108	0	anecd			anecdotes
+anglian	20262	0	anglian			
+ang	20262	0	ang			anglian
+angl	20262	0	angl			anglian
+anglo indian	20418	0	anglo-indian			
+anglo ind	20418	0	anglo-ind			anglo-indian
+animal	20576	0	animal			
+anim	20576	0	anim			animal
+animals	20727	0	animals			
+anim	20727	0	anim			animals
+annal	20879	0	annal			
+ann	20879	0	ann			annal
+annals	21029	0	annals			
+ann	21029	0	ann			annals
+anniversary	21180	0	anniversary			
+anniv	21180	0	anniv			anniversary
+annotation	21333	0	annotation			
+annot	21333	0	annot			annotation
+annual	21486	0	annual			
+ann	21486	0	ann			annual
+anonymous	21637	0	anonymous			
+anon	21637	0	anon			anonymous
+answer	21791	0	answer			
+answ	21791	0	answ			answer
+ante	21942	0	ante			
+a	21942	0	a			ante
+anthropological	22090	0	anthropological			
+anthropol	22090	0	anthropol			anthropological
+anthropology	22250	0	anthropology			
+anthrop	22250	0	anthrop			anthropology
+anthropol	22250	0	anthropol			anthropology
+antiquities	22412	0	antiquities			
+ant	22412	0	ant			antiquities
+antiq	22412	0	antiq			antiquities
+antiquity	22572	0	antiquity			
+antiq	22572	0	antiq			antiquity
+aphetic	22726	0	aphetic			
+aphet	22726	0	aphet			aphetic
+aphetized	22878	0	aphetized			
+aphet	22878	0	aphet			aphetized
+apocalyptic	23033	0	apocalyptic			
+apoc	23033	0	apoc			apocalyptic
+apocalyptical	23188	0	apocalyptical			
+apoc	23188	0	apoc			apocalyptical
+apologies	23344	0	apologies			
+apol	23344	0	apol			apologies
+apology	23498	0	apology			
+apol	23498	0	apol			apology
+apparently	23650	0	apparently			
+app	23650	0	app			apparently
+appendix	23803	0	appendix			
+app	23803	0	app			appendix
+application	23956	0	application			
+applic	23956	0	applic			application
+applications	24109	0	applications			
+applic	24109	0	applic			applications
+applied	24264	0	applied			
+appl	24264	0	appl			applied
+appositive	24416	0	appositive			
+appos	24416	0	appos			appositive
+appositively	24570	0	appositively			
+appos	24570	0	appos			appositively
+april	24725	0	april			
+apr	24725	0	apr			april
+arabic	24875	0	arabic			
+arab	24875	0	arab			arabic
+arber	25026	0	arber			
+arb	25026	0	arb			arber
+archaeological	25176	0	archaeological			
+archaeol	25176	0	archaeol			archaeological
+archaeology	25335	0	archaeology			
+archaeol	25335	0	archaeol			archaeology
+archaic	25492	0	archaic			
+arch	25492	0	arch			archaic
+archbishop	25645	0	archbishop			
+abp	25645	0	abp			archbishop
+archipelago	25801	0	archipelago			
+archipel	25801	0	archipel			archipelago
+architectural	25958	0	architectural			
+archit	25958	0	archit			architectural
+architecture	26116	0	architecture			
+arch	26116	0	arch			architecture
+archit	26116	0	archit			architecture
+archive	26276	0	archive			
+arch	26276	0	arch			archive
+archives	26428	0	archives			
+arch	26428	0	arch			archives
+argument	26581	0	argument			
+argt	26581	0	argt			argument
+arg	26581	0	arg			argument
+arithmetic	26739	0	arithmetic			
+arith	26739	0	arith			arithmetic
+arithm	26739	0	arithm			arithmetic
+arithmetical	26897	0	arithmetical			
+arithm	26897	0	arithm			arithmetical
+arrangement	27053	0	arrangement			
+arrangem	27053	0	arrangem			arrangement
+article	27209	0	article			
+art	27209	0	art			article
+articulation	27360	0	articulation			
+artic	27360	0	artic			articulation
+artificial	27515	0	artificial			
+artific	27515	0	artific			artificial
+artillery	27670	0	artillery			
+artill	27670	0	artill			artillery
+ascending	27824	0	ascending			
+asc	27824	0	asc			ascending
+ashmole	27975	0	ashmole			
+ashm	27975	0	ashm			ashmole
+assemblies	28128	0	assemblies			
+assemb	28128	0	assemb			assemblies
+assembly	28283	0	assembly			
+assemb	28283	0	assemb			assembly
+association	28437	0	association			
+assoc	28437	0	assoc			association
+assyriology	28591	0	assyriology			
+assyriol	28591	0	assyriol			assyriology
+astrology	28748	0	astrology			
+astrol	28748	0	astrol			astrology
+astronautical	28903	0	astronautical			
+astronaut	28903	0	astronaut			astronautical
+astronautics	29061	0	astronautics			
+astronaut	29061	0	astronaut			astronautics
+astronomic	29218	0	astronomic			
+astron	29218	0	astron			astronomic
+astronomical	29373	0	astronomical			
+astron	29373	0	astron			astronomical
+astronomy	29529	0	astronomy			
+astr	29529	0	astr			astronomy
+astron	29529	0	astron			astronomy
+attic	29688	0	attic			
+att	29688	0	att			attic
+attribute	29838	0	attribute			
+attrib	29838	0	attrib			attribute
+attributes	29992	0	attributes			
+attrib	29992	0	attrib			attributes
+attributive	30147	0	attributive			
+attrib	30147	0	attrib			attributive
+attributively	30303	0	attributively			
+attrib	30303	0	attrib			attributively
+august	30460	0	august			
+aug	30460	0	aug			august
+australia	30612	0	australia			
+austral	30612	0	austral			australia
+australian	30766	0	australian			
+austral	30766	0	austral			australian
+authenticate	30921	0	authenticate			
+auth	30921	0	auth			authenticate
+authentication	31077	0	authentication			
+auth	31077	0	auth			authentication
+author	31234	0	author			
+auth	31234	0	auth			author
+authorization	31386	0	authorization			
+auth	31386	0	auth			authorization
+authorize	31543	0	authorize			
+auth	31543	0	auth			authorize
+authors	31699	0	authors			
+auth	31699	0	auth			authors
+autobiographic	31852	0	autobiographic			
+autobiogr	31852	0	autobiogr			autobiographic
+autobiographical	32012	0	autobiographical			
+autobiogr	32012	0	autobiogr			autobiographical
+autobiography	32174	0	autobiography			
+autobiog	32174	0	autobiog			autobiography
+autobiogr	32174	0	autobiogr			autobiography
+avenue	32336	0	avenue			
+ave	32336	0	ave			avenue
+average	32487	0	average			
+avg	32487	0	avg			average
+ayrshire	32641	0	ayrshire			
+ayrsh	32641	0	ayrsh			ayrshire
+bacteriologic	32795	0	bacteriologic			
+bacteriol	32795	0	bacteriol			bacteriologic
+bacteriological	32954	0	bacteriological			
+bacteriol	32954	0	bacteriol			bacteriological
+bacteriology	33114	0	bacteriology			
+bacteriol	33114	0	bacteriol			bacteriology
+bedfordshire	33272	0	bedfordshire			
+bedford	33272	0	bedford			bedfordshire
+bedfordsh	33272	0	bedfordsh			bedfordshire
+before	33434	0	before			
+bef	33434	0	bef			before
+belgian	33586	0	belgian			
+belg	33586	0	belg			belgian
+berkshire	33739	0	berkshire			
+berks	33739	0	berks			berkshire
+berksh	33739	0	berksh			berkshire
+berwickshire	33898	0	berwickshire			
+berw	33898	0	berw			berwickshire
+berwicksh	33898	0	berwicksh			berwickshire
+between	34058	0	between			
+betw	34058	0	betw			between
+bibliography	34211	0	bibliography			
+bibliogr	34211	0	bibliogr			bibliography
+binary	34369	0	binary			
+bin	34369	0	bin			binary
+biochemical	34519	0	biochemical			
+biochem	34519	0	biochem			biochemical
+biochemistry	34676	0	biochemistry			
+biochem	34676	0	biochem			biochemistry
+biographic	34833	0	biographic			
+biogr	34833	0	biogr			biographic
+biographical	34988	0	biographical			
+biogr	34988	0	biogr			biographical
+biography	35144	0	biography			
+biog	35144	0	biog			biography
+biogr	35144	0	biogr			biography
+biological	35303	0	biological			
+biol	35303	0	biol			biological
+biology	35458	0	biology			
+biol	35458	0	biol			biology
+bishop	35611	0	bishop			
+bp	35611	0	bp			bishop
+book	35763	0	book			
+bk	35763	0	bk			book
+books	35913	0	books			
+bks	35913	0	bks			books
+boolean	36064	0	boolean			
+bool	36064	0	bool			boolean
+border	36216	0	border			
+bord	36216	0	bord			border
+botanic	36368	0	botanic			
+bot	36368	0	bot			botanic
+botanical	36520	0	botanical			
+bot	36520	0	bot			botanical
+botany	36674	0	botany			
+bot	36674	0	bot			botany
+boulevard	36825	0	boulevard			
+blvd	36825	0	blvd			boulevard
+brazilian	36980	0	brazilian			
+braz	36980	0	braz			brazilian
+britain	37135	0	britain			
+brit	37135	0	brit			britain
+british	37287	0	british			
+brit	37287	0	brit			british
+brother	37440	0	brother			
+bro	37440	0	bro			brother
+brothers	37593	0	brothers			
+bros	37593	0	bros			brothers
+buckinghamshire	37747	0	buckinghamshire			
+bucks	37747	0	bucks			buckinghamshire
+buffer	37908	0	buffer			
+buf	37908	0	buf			buffer
+building	38060	0	building			
+build	38060	0	build			building
+bulletin	38212	0	bulletin			
+bull	38212	0	bull			bulletin
+bureau	38366	0	bureau			
+bur	38366	0	bur			bureau
+business	38518	0	business			
+biz	38518	0	biz			business
+calculate	38673	0	calculate			
+calc	38673	0	calc			calculate
+calculus	38827	0	calculus			
+calc	38827	0	calc			calculus
+calendar	38981	0	calendar			
+cal	38981	0	cal			calendar
+calend	38981	0	calend			calendar
+california	39139	0	california			
+calif	39139	0	calif			california
+calligraphy	39293	0	calligraphy			
+calligr	39293	0	calligr			calligraphy
+cambridge	39449	0	cambridge			
+camb	39449	0	camb			cambridge
+cambr	39449	0	cambr			cambridge
+campanology	39608	0	campanology			
+campanol	39608	0	campanol			campanology
+canadian	39765	0	canadian			
+canad	39765	0	canad			canadian
+canterbury	39918	0	canterbury			
+canterb	39918	0	canterb			canterbury
+capitalize	40074	0	capitalize			
+cap	40074	0	cap			capitalize
+captain	40229	0	captain			
+capt	40229	0	capt			captain
+cartographic	40381	0	cartographic			
+cartogr	40381	0	cartogr			cartographic
+cartographical	40539	0	cartographical			
+cartogr	40539	0	cartogr			cartographical
+cartography	40699	0	cartography			
+cartogr	40699	0	cartogr			cartography
+catalogue	40856	0	catalogue			
+catal	40856	0	catal			catalogue
+catechism	41011	0	catechism			
+catech	41011	0	catech			catechism
+catholic	41165	0	catholic			
+cath	41165	0	cath			catholic
+centimetre	41318	0	centimetre			
+cm	41318	0	cm			centimetre
+central	41471	0	central			
+cent	41471	0	cent			central
+century	41622	0	century			
+cent	41622	0	cent			century
+c	41622	0	c			century
+ceramics	41777	0	ceramics			
+ceram	41777	0	ceram			ceramics
+certificate	41929	0	certificate			
+cert	41929	0	cert			certificate
+certif	41929	0	certif			certificate
+certify,	42089	0	certify,			
+certificate	42089	0	certificate			certify,
+chamber	42246	0	chamber			
+chamb	42246	0	chamb			chamber
+character	42398	0	character			
+char	42398	0	char			character
+charac	42398	0	charac			character
+charles	42557	0	charles			
+chas	42557	0	chas			charles
+chemical	42710	0	chemical			
+chem	42710	0	chem			chemical
+chemistry	42863	0	chemistry			
+chem	42863	0	chem			chemistry
+cheshire	43016	0	cheshire			
+chesh	43016	0	chesh			cheshire
+christian	43170	0	christian			
+chr	43170	0	chr			christian
+chronicle	43324	0	chronicle			
+chron	43324	0	chron			chronicle
+chronicles	43478	0	chronicles			
+chr	43478	0	chr			chronicles
+chron	43478	0	chron			chronicles
+chrons	43478	0	chrons			chronicles
+chronology	43640	0	chronology			
+chron	43640	0	chron			chronology
+chronol	43640	0	chronol			chronology
+church	43799	0	church			
+ch	43799	0	ch			church
+cigarette	43950	0	cigarette			
+ciggy	43950	0	ciggy			cigarette
+cinematographic	44106	0	cinematographic			
+cinematogr	44106	0	cinematogr			cinematographic
+cinematographical	44266	0	cinematographical			
+cinematogr	44266	0	cinematogr			cinematographical
+cinematography	44428	0	cinematography			
+cinematogr	44428	0	cinematogr			cinematography
+circa	44588	0	circa			
+c	44588	0	c			circa
+circle	44736	0	circle			
+circ	44736	0	circ			circle
+classical	44887	0	classical			
+class	44887	0	class			classical
+classification	45041	0	classification			
+classif	45041	0	classif			classification
+clause	45199	0	clause			
+cl	45199	0	cl			clause
+climatology	45350	0	climatology			
+climatol	45350	0	climatol			climatology
+clinical	45507	0	clinical			
+clin	45507	0	clin			clinical
+club	45660	0	club			
+cl	45660	0	cl			club
+collected	45809	0	collected			
+coll	45809	0	coll			collected
+collection	45963	0	collection			
+coll	45963	0	coll			collection
+collective	46116	0	collective			
+collect	46116	0	collect			collective
+collectively	46271	0	collectively			
+collect	46271	0	collect			collectively
+college	46428	0	college			
+coll	46428	0	coll			college
+colloquial	46581	0	colloquial			
+colloq	46581	0	colloq			colloquial
+colloquially	46736	0	colloquially			
+colloq	46736	0	colloq			colloquially
+colloquies	46893	0	colloquies			
+colloq	46893	0	colloq			colloquies
+colonel	47047	0	colonel			
+col	47047	0	col			colonel
+colossians	47199	0	colossians			
+col	47199	0	col			colossians
+coloss	47199	0	coloss			colossians
+column	47357	0	column			
+col	47357	0	col			column
+combination	47508	0	combination			
+comb	47508	0	comb			combination
+combinations	47661	0	combinations			
+combs	47661	0	combs			combinations
+command	47816	0	command			
+cmd	47816	0	cmd			command
+commandment	47968	0	commandment			
+commandm	47968	0	commandm			commandment
+commendation	48123	0	commendation			
+commend	48123	0	commend			commendation
+commentary	48278	0	commentary			
+comm	48278	0	comm			commentary
+commerce	48431	0	commerce			
+comm	48431	0	comm			commerce
+commercial	48584	0	commercial			
+commerc	48584	0	commerc			commercial
+commission	48738	0	commission			
+com	48738	0	com			commission
+comm	48738	0	comm			commission
+commiss	48738	0	commiss			commission
+committee	48899	0	committee			
+comm	48899	0	comm			committee
+common	49052	0	common			
+com	49052	0	com			common
+comm	49052	0	comm			common
+commonwealth	49205	0	commonwealth			
+commonw	49205	0	commonw			commonwealth
+communication	49362	0	communication			
+communic	49362	0	communic			communication
+companion	49518	0	companion			
+comp	49518	0	comp			companion
+compan	49518	0	compan			companion
+company	49675	0	company			
+co	49675	0	co			company
+comp	49675	0	comp			company
+comparative	49831	0	comparative			
+comp	49831	0	comp			comparative
+compar	49831	0	compar			comparative
+compare	49990	0	compare			
+cf	49990	0	cf			compare
+cmp	49990	0	cmp			compare
+comparison	50146	0	comparison			
+cmp	50146	0	cmp			comparison
+compendious	50300	0	compendious			
+compend	50300	0	compend			compendious
+compendium	50455	0	compendium			
+compend	50455	0	compend			compendium
+complement	50610	0	complement			
+compl	50610	0	compl			complement
+complete	50762	0	complete			
+compl	50762	0	compl			complete
+composition	50914	0	composition			
+comp	50914	0	comp			composition
+compos	50914	0	compos			composition
+compound	51072	0	compound			
+comp	51072	0	comp			compound
+cpd	51072	0	cpd			compound
+concerning	51229	0	concerning			
+conc	51229	0	conc			concerning
+conchology	51382	0	conchology			
+conch	51382	0	conch			conchology
+concise	51537	0	concise			
+conc	51537	0	conc			concise
+conclusion	51689	0	conclusion			
+concl	51689	0	concl			conclusion
+concrete	51843	0	concrete			
+concr	51843	0	concr			concrete
+concretely	51996	0	concretely			
+concr	51996	0	concr			concretely
+confer	52151	0	confer			
+cf	52151	0	cf			confer
+conference	52302	0	conference			
+conf	52302	0	conf			conference
+confession	52457	0	confession			
+conf	52457	0	conf			confession
+confidential	52611	0	confidential			
+confid	52611	0	confid			confidential
+configuration	52766	0	configuration			
+config	52766	0	config			configuration
+configure	52922	0	configure			
+config	52922	0	config			configure
+conflict	53077	0	conflict			
+confl	53077	0	confl			conflict
+confutation	53230	0	confutation			
+confut	53230	0	confut			confutation
+congregation	53385	0	congregation			
+congreg	53385	0	congreg			congregation
+congress	53541	0	congress			
+congr	53541	0	congr			congress
+congressional	53694	0	congressional			
+congress	53694	0	congress			congressional
+conjugation	53851	0	conjugation			
+conj	53851	0	conj			conjugation
+conjunction	54006	0	conjunction			
+conj	54006	0	conj			conjunction
+connect	54160	0	connect			
+conn	54160	0	conn			connect
+connecticut	54312	0	connecticut			
+conn	54312	0	conn			connecticut
+connection	54467	0	connection			
+conn	54467	0	conn			connection
+connector	54620	0	connector			
+conn	54620	0	conn			connector
+conscience	54774	0	conscience			
+consc	54774	0	consc			conscience
+consecrated	54928	0	consecrated			
+consecr	54928	0	consecr			consecrated
+consecration	55085	0	consecration			
+consecr	55085	0	consecr			consecration
+consideration	55240	0	consideration			
+consid	55240	0	consid			consideration
+considerations	55396	0	considerations			
+consid	55396	0	consid			considerations
+consolation	55554	0	consolation			
+consol	55554	0	consol			consolation
+consonant	55708	0	consonant			
+cons	55708	0	cons			consonant
+constitution	55862	0	constitution			
+constit	55862	0	constit			constitution
+constitutional	56017	0	constitutional			
+constit	56017	0	constit			constitutional
+construction	56173	0	construction			
+const	56173	0	const			construction
+constr	56173	0	constr			construction
+construed	56331	0	construed			
+with	56331	0	with			construed
+contemplation	56486	0	contemplation			
+contempl	56486	0	contempl			contemplation
+contemporary	56643	0	contemporary			
+contemp	56643	0	contemp			contemporary
+contemptuous	56800	0	contemptuous			
+contempt	56800	0	contempt			contemptuous
+contemptuously	56958	0	contemptuously			
+contempt	56958	0	contempt			contemptuously
+contending	57118	0	contending			
+contend	57118	0	contend			contending
+contendings	57271	0	contendings			
+contend	57271	0	contend			contendings
+contention	57427	0	contention			
+content	57427	0	content			contention
+context	57581	0	context			
+ctx	57581	0	ctx			context
+continuation	57734	0	continuation			
+contin	57734	0	contin			continuation
+contracted	57889	0	contracted			
+contr	57889	0	contr			contracted
+contraction	58042	0	contraction			
+contr	58042	0	contr			contraction
+contradiction	58195	0	contradiction			
+contradict	58195	0	contradict			contradiction
+contrasted	58350	0	contrasted			
+contr	58350	0	contr			contrasted
+contribution	58504	0	contribution			
+contrib	58504	0	contrib			contribution
+control	58660	0	control			
+ctl	58660	0	ctl			control
+controversial	58812	0	controversial			
+controv	58812	0	controv			controversial
+controversy	58969	0	controversy			
+controv	58969	0	controv			controversy
+convention	59124	0	convention			
+conv	59124	0	conv			convention
+convent	59124	0	convent			convention
+conversation	59283	0	conversation			
+conversat	59283	0	conversat			conversation
+conversion	59439	0	conversion			
+conv	59439	0	conv			conversion
+convert	59593	0	convert			
+conv	59593	0	conv			convert
+cvt	59593	0	cvt			convert
+convocation	59750	0	convocation			
+convoc	59750	0	convoc			convocation
+corinthians	59904	0	corinthians			
+cor	59904	0	cor			corinthians
+cornwall	60059	0	cornwall			
+cornw	60059	0	cornw			cornwall
+coronation	60212	0	coronation			
+coron	60212	0	coron			coronation
+correspondence	60365	0	correspondence			
+corr	60365	0	corr			correspondence
+corresp	60365	0	corresp			correspondence
+corresponding	60526	0	corresponding			
+corresp	60526	0	corresp			corresponding
+council	60682	0	council			
+counc	60682	0	counc			council
+count	60834	0	count			
+ct	60834	0	ct			count
+county	60983	0	county			
+c	60983	0	c			county
+court	61134	0	court			
+crt	61134	0	crt			court
+ct	61134	0	ct			court
+courts	61288	0	courts			
+crts	61288	0	crts			courts
+courtship	61440	0	courtship			
+courtsh	61440	0	courtsh			courtship
+craniology	61595	0	craniology			
+craniol	61595	0	craniol			craniology
+craniometry	61750	0	craniometry			
+craniom	61750	0	craniom			craniometry
+criminal	61905	0	criminal			
+crim	61905	0	crim			criminal
+critical	62058	0	critical			
+crit	62058	0	crit			critical
+criticism	62211	0	criticism			
+crit	62211	0	crit			criticism
+cryptography	62365	0	cryptography			
+cryptogr	62365	0	cryptogr			cryptography
+crypt	62365	0	crypt			cryptography
+cryptology	62525	0	cryptology			
+crypt	62525	0	crypt			cryptology
+crystallography	62680	0	crystallography			
+crystallogr	62680	0	crystallogr			crystallography
+cumberland	62840	0	cumberland			
+cumb	62840	0	cumb			cumberland
+cumberld	62840	0	cumberld			cumberland
+cumbld	62840	0	cumbld			cumberland
+cup	63003	0	cup			
+c	63003	0	c			cup
+cyclopaedia	63150	0	cyclopaedia			
+cycl	63150	0	cycl			cyclopaedia
+cytology	63305	0	cytology			
+cytol	63305	0	cytol			cytology
+daniel	63458	0	daniel			
+dan	63458	0	dan			daniel
+dative	63609	0	dative			
+dat	63609	0	dat			dative
+daughter	63761	0	daughter			
+dau	63761	0	dau			daughter
+debate	63915	0	debate			
+deb	63915	0	deb			debate
+december	64067	0	december			
+dec	64067	0	dec			december
+declaration	64220	0	declaration			
+declar	64220	0	declar			declaration
+dedicated	64374	0	dedicated			
+ded	64374	0	ded			dedicated
+dedication	64528	0	dedication			
+ded	64528	0	ded			dedication
+defence	64681	0	defence			
+def	64681	0	def			defence
+define	64833	0	define			
+def	64833	0	def			define
+definite	64984	0	definite			
+def	64984	0	def			definite
+definition	65137	0	definition			
+def	65137	0	def			definition
+delete	65290	0	delete			
+del	65290	0	del			delete
+deliverance	65441	0	deliverance			
+deliv	65441	0	deliv			deliverance
+demonstration	65595	0	demonstration			
+demonstr	65595	0	demonstr			demonstration
+demonstrative	65752	0	demonstrative			
+dem	65752	0	dem			demonstrative
+department	65909	0	department			
+dep	65909	0	dep			department
+dept	65909	0	dept			department
+depredation	66067	0	depredation			
+depred	66067	0	depred			depredation
+depredat	66067	0	depredat			depredation
+deputy	66226	0	deputy			
+dep	66226	0	dep			deputy
+derbyshire	66377	0	derbyshire			
+derbysh	66377	0	derbysh			derbyshire
+derivative	66533	0	derivative			
+deriv	66533	0	deriv			derivative
+derogatory	66688	0	derogatory			
+derog	66688	0	derog			derogatory
+description	66844	0	description			
+descr	66844	0	descr			description
+descriptive	66998	0	descriptive			
+descr	66998	0	descr			descriptive
+destination	67153	0	destination			
+dst	67153	0	dst			destination
+dest	67153	0	dest			destination
+deuteronomy	67311	0	deuteronomy			
+deut	67311	0	deut			deuteronomy
+develop	67467	0	develop			
+dev	67467	0	dev			develop
+development	67619	0	development			
+devel	67619	0	devel			development
+devonshire	67774	0	devonshire			
+devonsh	67774	0	devonsh			devonshire
+dialect	67930	0	dialect			
+dial	67930	0	dial			dialect
+dictionary	68082	0	dictionary			
+dict	68082	0	dict			dictionary
+difference	68233	0	difference			
+diff	68233	0	diff			difference
+difficult	68388	0	difficult			
+diffic	68388	0	diffic			difficult
+difficulty	68543	0	difficulty			
+diffic	68543	0	diffic			difficulty
+diminutive	68698	0	diminutive			
+dim	68698	0	dim			diminutive
+direction	68853	0	direction			
+direct	68853	0	direct			direction
+directory	69004	0	directory			
+dir	69004	0	dir			directory
+discipline	69158	0	discipline			
+discipl	69158	0	discipl			discipline
+discourse	69313	0	discourse			
+disc	69313	0	disc			discourse
+discovery	69467	0	discovery			
+discov	69467	0	discov			discovery
+discriminant	69621	0	discriminant			
+disc	69621	0	disc			discriminant
+discrimination	69777	0	discrimination			
+discrim	69777	0	discrim			discrimination
+discussion	69934	0	discussion			
+discuss	69934	0	discuss			discussion
+disease	70089	0	disease			
+dis	70089	0	dis			disease
+diseases	70241	0	diseases			
+dis	70241	0	dis			diseases
+dissertation	70393	0	dissertation			
+diss	70393	0	diss			dissertation
+distance	70548	0	distance			
+dist	70548	0	dist			distance
+distemper	70702	0	distemper			
+distemp	70702	0	distemp			distemper
+distilling	70856	0	distilling			
+distill	70856	0	distill			distilling
+distribute	71009	0	distribute			
+distrib	71009	0	distrib			distribute
+distribution	71164	0	distribution			
+distrib	71164	0	distrib			distribution
+distributor	71320	0	distributor			
+dist	71320	0	dist			distributor
+district	71476	0	district			
+dist	71476	0	dist			district
+diversity	71629	0	diversity			
+divers	71629	0	divers			diversity
+divinity	71782	0	divinity			
+div	71782	0	div			divinity
+division	71934	0	division			
+div	71934	0	div			division
+doctor	72085	0	doctor			
+doc	72085	0	doc			doctor
+dr	72085	0	Dr			doctor
+doctrine	72240	0	doctrine			
+doctr	72240	0	doctr			doctrine
+document	72393	0	document			
+doc	72393	0	doc			document
+documents	72546	0	documents			
+doc	72546	0	doc			documents
+domestic	72699	0	domestic			
+domest	72699	0	domest			domestic
+double	72852	0	double			
+dble	72852	0	dble			double
+dozen	73004	0	dozen			
+doz	73004	0	doz			dozen
+duke	73155	0	duke			
+dk	73155	0	dk			duke
+durham	73305	0	durham			
+durh	73305	0	durh			durham
+dyslogistic	73457	0	dyslogistic			
+dyslog	73457	0	dyslog			dyslogistic
+east	73613	0	east			
+e	73613	0	e			east
+eastern	73761	0	eastern			
+e	73761	0	e			eastern
+east	73761	0	east			eastern
+ecclesiastes	73917	0	ecclesiastes			
+eccl	73917	0	eccl			ecclesiastes
+eccles	73917	0	eccles			ecclesiastes
+ecclesiastical	74076	0	ecclesiastical			
+eccl	74076	0	eccl			ecclesiastical
+ecclesiasticus	74234	0	ecclesiasticus			
+ecclus	74234	0	ecclus			ecclesiasticus
+ecological	74394	0	ecological			
+ecol	74394	0	ecol			ecological
+ecology	74549	0	ecology			
+ecol	74549	0	ecol			ecology
+economic	74701	0	economic			
+econ	74701	0	econ			economic
+economical	74854	0	economical			
+econ	74854	0	econ			economical
+economics	75009	0	economics			
+econ	75009	0	econ			economics
+edinburgh	75163	0	edinburgh			
+edin	75163	0	edin			edinburgh
+edition	75318	0	edition			
+ed	75318	0	ed			edition
+editor	75469	0	editor			
+ed	75469	0	ed			editor
+education	75621	0	education			
+educ	75621	0	educ			education
+educational	75773	0	educational			
+educ	75773	0	educ			educational
+edward	75927	0	edward			
+ed	75927	0	ed			edward
+edw	75927	0	edw			edward
+egyptian	76082	0	egyptian			
+egypt	76082	0	egypt			egyptian
+egyptology	76236	0	egyptology			
+egyptol	76236	0	egyptol			egyptology
+electric	76391	0	electric			
+electr	76391	0	electr			electric
+electrical	76544	0	electrical			
+electr	76544	0	electr			electrical
+electricity	76698	0	electricity			
+electr	76698	0	electr			electricity
+electro magnetism	76853	0	electro-magnetism			
+electro magn	76853	0	electro-magn			electro-magnetism
+electro physiology	77015	0	electro-physiology			
+electro physiol	77015	0	electro-physiol			electro-physiology
+element	77177	0	element			
+elem	77177	0	elem			element
+elementary	77329	0	elementary			
+elem	77329	0	elem			elementary
+elements	77483	0	elements			
+elem	77483	0	elem			elements
+elizabeth	77636	0	elizabeth			
+eliz	77636	0	eliz			elizabeth
+elizabethan	77791	0	elizabethan			
+elizab	77791	0	elizab			elizabethan
+elliptical	77948	0	elliptical			
+ellipt	77948	0	ellipt			elliptical
+elliptically	78102	0	elliptically			
+ellipt	78102	0	ellipt			elliptically
+embassy	78258	0	embassy			
+emb	78258	0	emb			embassy
+embryologic	78411	0	embryologic			
+embryol	78411	0	embryol			embryologic
+embryological	78568	0	embryological			
+embryol	78568	0	embryol			embryological
+embryology	78727	0	embryology			
+embryol	78727	0	embryol			embryology
+emphatic	78883	0	emphatic			
+emph	78883	0	emph			emphatic
+emphatically	79036	0	emphatically			
+emph	79036	0	emph			emphatically
+encyclopaedia	79192	0	encyclopaedia			
+encycl	79192	0	encycl			encyclopaedia
+encyclopaedic	79349	0	encyclopaedic			
+encycl	79349	0	encycl			encyclopaedic
+engineering	79506	0	engineering			
+engin	79506	0	engin			engineering
+england	79660	0	england			
+eng	79660	0	eng			england
+english	79812	0	english			
+eng	79812	0	eng			english
+englishwomen	79964	0	englishwomen			
+englishw	79964	0	englishw			englishwomen
+enquiry	80122	0	enquiry			
+enq	80122	0	enq			enquiry
+enthusiasm	80274	0	enthusiasm			
+enthus	80274	0	enthus			enthusiasm
+entomological	80428	0	entomological			
+ent	80428	0	ent			entomological
+entom	80428	0	entom			entomological
+entomol	80428	0	entomol			entomological
+entomology	80593	0	entomology			
+ent	80593	0	ent			entomology
+entom	80593	0	entom			entomology
+entomol	80593	0	entomol			entomology
+enzymol	80593	0	enzymol			entomology
+enumeration	80760	0	enumeration			
+enum	80760	0	enum			enumeration
+environment	80914	0	environment			
+env	80914	0	env			environment
+ephesians	81068	0	ephesians			
+eph	81068	0	eph			ephesians
+ephes	81068	0	ephes			ephesians
+epilogue	81226	0	epilogue			
+epil	81226	0	epil			epilogue
+episcopacy	81380	0	episcopacy			
+episc	81380	0	episc			episcopacy
+epistle	81534	0	epistle			
+ep	81534	0	ep			epistle
+epist	81534	0	epist			epistle
+epitaph	81690	0	epitaph			
+epit	81690	0	epit			epitaph
+equipment	81842	0	equipment			
+equip	81842	0	equip			equipment
+erroneous	81995	0	erroneous			
+erron	81995	0	erron			erroneous
+erroneously	82150	0	erroneously			
+erron	82150	0	erron			erroneously
+error	82306	0	error			
+err	82306	0	err			error
+escape	82456	0	escape			
+esc	82456	0	esc			escape
+esdras	82608	0	esdras			
+esd	82608	0	esd			esdras
+especially	82759	0	especially			
+esp	82759	0	esp			especially
+essay	82914	0	essay			
+ess	82914	0	ess			essay
+essays	83064	0	essays			
+ess	83064	0	ess			essays
+essential	83215	0	essential			
+essent	83215	0	essent			essential
+establishment	83367	0	establishment			
+establ	83367	0	establ			establishment
+esther	83524	0	esther			
+esth	83524	0	esth			esther
+etcetera	83676	0	etcetera			
+etc	83676	0	Etc			etcetera
+ethnology	83830	0	ethnology			
+ethnol	83830	0	ethnol			ethnology
+etymological	83985	0	etymological			
+etymol	83985	0	etymol			etymological
+etymologically	84142	0	etymologically			
+etymol	84142	0	etymol			etymologically
+etymology	84301	0	etymology			
+etym	84301	0	etym			etymology
+etymol	84301	0	etymol			etymology
+euphemistic	84460	0	euphemistic			
+euphem	84460	0	euphem			euphemistic
+euphemistically	84616	0	euphemistically			
+euphem	84616	0	euphem			euphemistically
+evaluate	84776	0	evaluate			
+eval	84776	0	eval			evaluate
+evaluation	84930	0	evaluation			
+eval	84930	0	eval			evaluation
+evangelical	85083	0	evangelical			
+evang	85083	0	evang			evangelical
+evening	85238	0	evening			
+even	85238	0	even			evening
+evidence	85389	0	evidence			
+evid	85389	0	evid			evidence
+evolution	85542	0	evolution			
+evol	85542	0	evol			evolution
+evolutionary	85694	0	evolutionary			
+evol	85694	0	evol			evolutionary
+exaltation	85848	0	exaltation			
+exalt	85848	0	exalt			exaltation
+examination	86001	0	examination			
+exam	86001	0	exam			examination
+except	86155	0	except			
+excp	86155	0	excp			except
+exception	86307	0	exception			
+excp	86307	0	excp			exception
+exchange	86460	0	exchange			
+exch	86460	0	exch			exchange
+exchequer	86614	0	exchequer			
+exch	86614	0	exch			exchequer
+execute	86769	0	execute			
+exec	86769	0	exec			execute
+execution	86922	0	execution			
+exec	86922	0	exec			execution
+executive	87075	0	executive			
+exec	87075	0	exec			executive
+exercise	87230	0	exercise			
+exerc	87230	0	exerc			exercise
+exercises	87383	0	exercises			
+exerc	87383	0	exerc			exercises
+exhibit	87537	0	exhibit			
+exhib	87537	0	exhib			exhibit
+exhibition	87690	0	exhibition			
+exhib	87690	0	exhib			exhibition
+exhibits	87844	0	exhibits			
+exhib	87844	0	exhib			exhibits
+exodus	87998	0	exodus			
+exod	87998	0	exod			exodus
+expedition	88150	0	expedition			
+exped	88150	0	exped			expedition
+experiment	88303	0	experiment			
+exper	88303	0	exper			experiment
+experimental	88457	0	experimental			
+exper	88457	0	exper			experimental
+explanation	88613	0	explanation			
+explan	88613	0	explan			explanation
+explication	88767	0	explication			
+explic	88767	0	explic			explication
+exploration	88921	0	exploration			
+explor	88921	0	explor			exploration
+exposition	89075	0	exposition			
+expos	89075	0	expos			exposition
+expository	89228	0	expository			
+expos	89228	0	expos			expository
+extend	89383	0	extend			
+ext	89383	0	ext			extend
+extension	89534	0	extension			
+ext	89534	0	ext			extension
+ezekiel	89687	0	ezekiel			
+ezek	89687	0	ezek			ezekiel
+fable	89840	0	fable			
+fab	89840	0	fab			fable
+fables	89991	0	fables			
+fab	89991	0	fab			fables
+familiar	90143	0	familiar			
+fam	90143	0	fam			familiar
+famil	90143	0	famil			familiar
+familiarly	90300	0	familiarly			
+fam	90300	0	fam			familiarly
+famil	90300	0	famil			familiarly
+family	90459	0	family			
+fam	90459	0	fam			family
+farewell	90610	0	farewell			
+farew	90610	0	farew			farewell
+father	90763	0	father			
+fr	90763	0	fr			father
+february	90915	0	february			
+feb	90915	0	feb			february
+feminine	91068	0	feminine			
+f	91068	0	f			feminine
+fem	91068	0	fem			feminine
+field	91225	0	field			
+fld	91225	0	fld			field
+fifeshire	91375	0	fifeshire			
+fifesh	91375	0	fifesh			fifeshire
+figurative	91530	0	figurative			
+fig	91530	0	fig			figurative
+figuratively	91686	0	figuratively			
+fig	91686	0	fig			figuratively
+figure	91843	0	figure			
+fig	91843	0	fig			figure
+floating	91995	0	floating			
+float	91995	0	float			floating
+floruit	92147	0	floruit			
+fl	92147	0	fl			floruit
+flourished	92300	0	flourished			
+fl	92300	0	fl			flourished
+folio	92454	0	folio			
+f	92454	0	f			folio
+folios	92603	0	folios			
+ff	92603	0	ff			folios
+footprint	92755	0	footprint			
+footpr	92755	0	footpr			footprint
+forfarshire	92909	0	forfarshire			
+forfarsh	92909	0	forfarsh			forfarshire
+format	93066	0	format			
+fmt	93066	0	fmt			format
+fortification	93219	0	fortification			
+fortif	93219	0	fortif			fortification
+fortnightly	93375	0	fortnightly			
+fortn	93375	0	fortn			fortnightly
+forward	93531	0	forward			
+fwd	93531	0	fwd			forward
+foundation	93684	0	foundation			
+found	93684	0	found			foundation
+foundations	93838	0	foundations			
+found	93838	0	found			foundations
+fraction	93993	0	fraction			
+frac	93993	0	frac			fraction
+fragment	94145	0	fragment			
+fragm	94145	0	fragm			fragment
+fragments	94298	0	fragments			
+fragm	94298	0	fragm			fragments
+fraternity	94451	0	fraternity			
+fratern	94451	0	fratern			fraternity
+french	94606	0	french			
+fr	94606	0	fr			french
+frequency	94758	0	frequency			
+freq	94758	0	freq			frequency
+frequent	94913	0	frequent			
+freq	94913	0	freq			frequent
+frequently	95067	0	frequently			
+freq	95067	0	freq			frequently
+friday	95221	0	friday			
+fri	95221	0	fri			friday
+friendship	95372	0	friendship			
+friendsh	95372	0	friendsh			friendship
+from	95527	0	from			
+fr	95527	0	fr			from
+function	95676	0	function			
+func	95676	0	func			function
+fundamental	95828	0	fundamental			
+fund	95828	0	fund			fundamental
+fundamentals	95983	0	fundamentals			
+fund	95983	0	fund			fundamentals
+furniture	96140	0	furniture			
+furnit	96140	0	furnit			furniture
+future	96295	0	future			
+fut	96295	0	fut			future
+galatians	96447	0	galatians			
+gal	96447	0	gal			galatians
+gallon	96601	0	gallon			
+gal	96601	0	gal			gallon
+garden	96752	0	garden			
+gard	96752	0	gard			garden
+gardening	96903	0	gardening			
+gard	96903	0	gard			gardening
+gastronomy	97055	0	gastronomy			
+gastron	97055	0	gastron			gastronomy
+gazette	97211	0	gazette			
+gaz	97211	0	gaz			gazette
+general	97364	0	general			
+gen	97364	0	gen			general
+generally	97516	0	generally			
+gen	97516	0	gen			generally
+genesis	97670	0	genesis			
+gen	97670	0	gen			genesis
+genitive	97822	0	genitive			
+gen	97822	0	gen			genitive
+geographic	97975	0	geographic			
+geogr	97975	0	geogr			geographic
+geographical	98130	0	geographical			
+geogr	98130	0	geogr			geographical
+geography	98286	0	geography			
+geog	98286	0	geog			geography
+geogr	98286	0	geogr			geography
+geologic	98445	0	geologic			
+geol	98445	0	geol			geologic
+geological	98598	0	geological			
+geol	98598	0	geol			geological
+geology	98753	0	geology			
+geol	98753	0	geol			geology
+geometric	98905	0	geometric			
+geom	98905	0	geom			geometric
+geometrical	99059	0	geometrical			
+geom	99059	0	geom			geometrical
+geometry	99215	0	geometry			
+geom	99215	0	geom			geometry
+geomorphology	99369	0	geomorphology			
+geomorphol	99369	0	geomorphol			geomorphology
+george	99528	0	george			
+geo	99528	0	geo			george
+german	99679	0	german			
+ger	99679	0	ger			german
+gerundial	99830	0	gerundial			
+gerund	99830	0	gerund			gerundial
+glacier	99984	0	glacier			
+glac	99984	0	glac			glacier
+glaciers	100137	0	glaciers			
+glac	100137	0	glac			glaciers
+glasgow	100290	0	glasgow			
+glasg	100290	0	glasg			glasgow
+glossary	100443	0	glossary			
+gloss	100443	0	gloss			glossary
+gloucestershire	100596	0	gloucestershire			
+glos	100596	0	glos			gloucestershire
+glouc	100596	0	glouc			gloucestershire
+gloucestersh	100596	0	gloucestersh			gloucestershire
+good	100765	0	good			
+gd	100765	0	gd			good
+gospel	100913	0	gospel			
+gosp	100913	0	gosp			gospel
+gospels	101065	0	gospels			
+gosp	101065	0	gosp			gospels
+government	101217	0	government			
+gov	101217	0	gov			government
+govt	101217	0	govt			government
+gram	101375	0	gram			
+g	101375	0	g			gram
+gm	101375	0	gm			gram
+grammar	101527	0	grammar			
+gr	101527	0	gr			grammar
+gram	101527	0	gram			grammar
+great	101684	0	great			
+gt	101684	0	gt			great
+guarantee	101833	0	guarantee			
+guar	101833	0	guar			guarantee
+gynaecology	101988	0	gynaecology			
+gynaecol	101988	0	gynaecol			gynaecology
+habakkuk	102145	0	habakkuk			
+hab	102145	0	hab			habakkuk
+haematology	102299	0	haematology			
+haematol	102299	0	haematol			haematology
+haggai	102456	0	haggai			
+hag	102456	0	hag			haggai
+hampshire	102607	0	hampshire			
+hampsh	102607	0	hampsh			hampshire
+hants	102607	0	hants			hampshire
+handbook	102766	0	handbook			
+handbk	102766	0	handbk			handbook
+handle	102920	0	handle			
+hdl	102920	0	hdl			handle
+harmonic	103071	0	harmonic			
+har	103071	0	har			harmonic
+header	103223	0	header			
+hdr	103223	0	hdr			header
+hebrew	103375	0	hebrew			
+heb	103375	0	heb			hebrew
+hebrews	103526	0	hebrews			
+heb	103526	0	heb			hebrews
+hebr	103526	0	hebr			hebrews
+hectare	103682	0	hectare			
+ha	103682	0	ha			hectare
+henry	103834	0	henry			
+hen	103834	0	hen			henry
+heraldry	103984	0	heraldry			
+her	103984	0	her			heraldry
+herbalism	104136	0	herbalism			
+herb	104136	0	herb			herbalism
+herefordshire	104290	0	herefordshire			
+heref	104290	0	heref			herefordshire
+hereford	104290	0	hereford			herefordshire
+herefordsh	104290	0	herefordsh			herefordshire
+hexadecimal	104456	0	hexadecimal			
+hex	104456	0	hex			hexadecimal
+hieroglyphic	104611	0	hieroglyphic			
+hierogl	104611	0	hierogl			hieroglyphic
+histological	104768	0	histological			
+histol	104768	0	histol			histological
+histology	104924	0	histology			
+histol	104924	0	histol			histology
+historic	105078	0	historic			
+hist	105078	0	hist			historic
+historical	105231	0	historical			
+hist	105231	0	hist			historical
+history	105386	0	history			
+hist	105386	0	hist			history
+homilies	105538	0	homilies			
+hom	105538	0	hom			homilies
+honourable	105690	0	honourable			
+hon	105690	0	hon			honourable
+horizontal	105845	0	horizontal			
+horiz	105845	0	horiz			horizontal
+horology	106000	0	horology			
+horol	106000	0	horol			horology
+horticultural	106153	0	horticultural			
+hort	106153	0	hort			horticultural
+horticulture	106310	0	horticulture			
+hort	106310	0	hort			horticulture
+hosea	106466	0	hosea			
+hos	106466	0	hos			hosea
+hospital	106616	0	hospital			
+hosp	106616	0	hosp			hospital
+hours	106769	0	hours			
+hrs	106769	0	hrs			hours
+household	106919	0	household			
+househ	106919	0	househ			household
+housekeeping	107073	0	housekeeping			
+housek	107073	0	housek			housekeeping
+hundredweight	107228	0	hundredweight			
+cwt	107228	0	cwt			hundredweight
+husbandry	107385	0	husbandry			
+husb	107385	0	husb			husbandry
+hydraulic	107540	0	hydraulic			
+hydraul	107540	0	hydraul			hydraulic
+hydrological	107694	0	hydrological			
+hydrol	107694	0	hydrol			hydrological
+hydrology	107850	0	hydrology			
+hydrol	107850	0	hydrol			hydrology
+ichthyology	108004	0	ichthyology			
+ichth	108004	0	ichth			ichthyology
+icthyology	108159	0	icthyology			
+icthyol	108159	0	icthyol			icthyology
+ideological	108314	0	ideological			
+ideol	108314	0	ideol			ideological
+ideology	108468	0	ideology			
+ideol	108468	0	ideol			ideology
+idolatry	108621	0	idolatry			
+idol	108621	0	idol			idolatry
+illustrated	108774	0	illustrated			
+illustr	108774	0	illustr			illustrated
+illustration	108930	0	illustration			
+illustr	108930	0	illustr			illustration
+imaginary	109087	0	imaginary			
+imag	109087	0	imag			imaginary
+imagination	109240	0	imagination			
+imag	109240	0	imag			imagination
+imitative	109394	0	imitative			
+imit	109394	0	imit			imitative
+immunology	109548	0	immunology			
+immunol	109548	0	immunol			immunology
+imperative	109705	0	imperative			
+imp	109705	0	imp			imperative
+imperfect	109860	0	imperfect			
+imperf	109860	0	imperf			imperfect
+impf	109860	0	impf			imperfect
+impersonal	110018	0	impersonal			
+impers	110018	0	impers			impersonal
+impression	110171	0	impression			
+impr	110171	0	impr			impression
+imprint	110325	0	imprint			
+impr	110325	0	impr			imprint
+improper	110477	0	improper			
+improp	110477	0	improp			improper
+improperly	110630	0	improperly			
+improp	110630	0	improp			improperly
+improved	110785	0	improved			
+impr	110785	0	impr			improved
+inaugural	110938	0	inaugural			
+inaug	110938	0	inaug			inaugural
+inclosure	111092	0	inclosure			
+inclos	111092	0	inclos			inclosure
+indefinite	111246	0	indefinite			
+indef	111246	0	indef			indefinite
+india	111401	0	india			
+ind	111401	0	ind			india
+indian	111551	0	indian			
+ind	111551	0	ind			indian
+indicative	111702	0	indicative			
+ind	111702	0	ind			indicative
+indic	111702	0	indic			indicative
+indirect	111860	0	indirect			
+ind	111860	0	ind			indirect
+indir	111860	0	indir			indirect
+industrial	112017	0	industrial			
+industr	112017	0	industr			industrial
+industry	112172	0	industry			
+ind	112172	0	ind			industry
+infinite	112325	0	infinite			
+inf	112325	0	inf			infinite
+infinitive	112478	0	infinitive			
+infin	112478	0	infin			infinitive
+infinity	112632	0	infinity			
+inf	112632	0	inf			infinity
+influence	112785	0	influence			
+infl	112785	0	infl			influence
+influenced	112940	0	influenced			
+infl	112940	0	infl			influenced
+information	113095	0	information			
+info	113095	0	info			information
+initial	113249	0	initial			
+init	113249	0	init			initial
+initialization	113401	0	initialization			
+init	113401	0	init			initialization
+initialize	113558	0	initialize			
+init	113558	0	init			initialize
+innocence	113713	0	innocence			
+innoc	113713	0	innoc			innocence
+innocent	113867	0	innocent			
+innoc	113867	0	innoc			innocent
+inorganic	114019	0	inorganic			
+inorg	114019	0	inorg			inorganic
+inquiry	114173	0	inquiry			
+inq	114173	0	inq			inquiry
+institute	114325	0	institute			
+inst	114325	0	inst			institute
+institution	114479	0	institution			
+inst	114479	0	inst			institution
+instruction	114632	0	instruction			
+instr	114632	0	instr			instruction
+instrumental	114785	0	instrumental			
+instr	114785	0	instr			instrumental
+intellectual	114941	0	intellectual			
+intellect	114941	0	intellect			intellectual
+intelligence	115099	0	intelligence			
+intell	115099	0	intell			intelligence
+intelligent	115255	0	intelligent			
+intell	115255	0	intell			intelligent
+intercourse	115409	0	intercourse			
+interc	115409	0	interc			intercourse
+interjection	115565	0	interjection			
+int	115565	0	int			interjection
+interj	115565	0	interj			interjection
+interlude	115723	0	interlude			
+interl	115723	0	interl			interlude
+international	115877	0	international			
+internat	115877	0	internat			international
+internationalization	116033	0	internationalization			
+i18n	116033	0	i18n			internationalization
+interpretation	116195	0	interpretation			
+interpr	116195	0	interpr			interpretation
+interrogative	116353	0	interrogative			
+interrog	116353	0	interrog			interrogative
+intransitive	116511	0	intransitive			
+intr	116511	0	intr			intransitive
+intrans	116511	0	intrans			intransitive
+introduction	116670	0	introduction			
+intro	116670	0	intro			introduction
+introd	116670	0	introd			introduction
+introductory	116827	0	introductory			
+introd	116827	0	introd			introductory
+invention	116983	0	invention			
+invent	116983	0	invent			invention
+inventories	117135	0	inventories			
+inv	117135	0	inv			inventories
+invent	117135	0	invent			inventories
+inventory	117294	0	inventory			
+inv	117294	0	inv			inventory
+invent	117294	0	invent			inventory
+invertebrate	117452	0	invertebrate			
+invertebr	117452	0	invertebr			invertebrate
+invertebrated	117610	0	invertebrated			
+invertebr	117610	0	invertebr			invertebrated
+investigation	117768	0	investigation			
+investig	117768	0	investig			investigation
+investment	117925	0	investment			
+investm	117925	0	investm			investment
+invocation	118080	0	invocation			
+invoc	118080	0	invoc			invocation
+ireland	118233	0	ireland			
+irel	118233	0	irel			ireland
+irish	118385	0	irish			
+ir	118385	0	ir			irish
+ironically	118534	0	ironically			
+iron	118534	0	iron			ironically
+irregular	118689	0	irregular			
+irreg	118689	0	irreg			irregular
+irregularly	118843	0	irregularly			
+irreg	118843	0	irreg			irregularly
+isaiah	118998	0	isaiah			
+isa	118998	0	isa			isaiah
+italian	119149	0	italian			
+ital	119149	0	ital			italian
+iterate	119301	0	iterate			
+iter	119301	0	iter			iterate
+iteration	119454	0	iteration			
+iter	119454	0	iter			iteration
+iterator	119606	0	iterator			
+iter	119606	0	iter			iterator
+jahrbuch	119759	0	jahrbuch			
+jahrb	119759	0	jahrb			jahrbuch
+james	119913	0	james			
+jam	119913	0	jam			james
+jas	119913	0	jas			james
+jamieson	120067	0	jamieson			
+jam	120067	0	jam			jamieson
+january	120220	0	january			
+jan	120220	0	jan			january
+japanese	120372	0	japanese			
+jap	120372	0	jap			japanese
+jeremiah	120526	0	jeremiah			
+jer	120526	0	jer			jeremiah
+jocular	120679	0	jocular			
+joc	120679	0	joc			jocular
+jocularly	120831	0	jocularly			
+joc	120831	0	joc			jocularly
+joshua	120985	0	joshua			
+josh	120985	0	josh			joshua
+journal	121138	0	journal			
+jrnl	121138	0	jrnl			journal
+journals	121293	0	journals			
+jrnls	121293	0	jrnls			journals
+judges	121449	0	judges			
+jud	121449	0	jud			judges
+judg	121449	0	judg			judges
+july	121605	0	july			
+jul	121605	0	jul			july
+june	121755	0	june			
+jun	121755	0	jun			june
+junior	121905	0	junior			
+jun	121905	0	jun			junior
+jnr	121905	0	jnr			junior
+jr	121905	0	jr			junior
+jurisdiction	122064	0	jurisdiction			
+jurisd	122064	0	jurisd			jurisdiction
+jurisdict	122064	0	jurisdict			jurisdiction
+jurisprudence	122222	0	jurisprudence			
+jurispr	122222	0	jurispr			jurisprudence
+justification	122381	0	justification			
+justif	122381	0	justif			justification
+justific	122381	0	justific			justification
+keeper	122542	0	keeper			
+kpr	122542	0	kpr			keeper
+kentish	122695	0	kentish			
+kent	122695	0	kent			kentish
+kilograms	122848	0	kilograms			
+kilo	122848	0	kilo			kilograms
+kilometre	123003	0	kilometre			
+km	123003	0	km			kilometre
+king	123156	0	king			
+k	123156	0	k			king
+kingdom	123303	0	kingdom			
+kingd	123303	0	kingd			kingdom
+kings	123455	0	kings			
+kgs	123455	0	kgs			kings
+knowledge	123605	0	knowledge			
+knowl	123605	0	knowl			knowledge
+laboratory	123759	0	laboratory			
+lab	123759	0	lab			laboratory
+lamentations	123914	0	lamentations			
+lam	123914	0	lam			lamentations
+lament	123914	0	lament			lamentations
+lancashire	124073	0	lancashire			
+lanc	124073	0	lanc			lancashire
+lancash	124073	0	lancash			lancashire
+lancs	124073	0	lancs			lancashire
+lane	124236	0	lane			
+ln	124236	0	ln			lane
+language	124384	0	language			
+lang	124384	0	lang			language
+languages	124538	0	languages			
+langs	124538	0	langs			languages
+latin	124693	0	latin			
+lat	124693	0	lat			latin
+lecture	124843	0	lecture			
+lect	124843	0	lect			lecture
+lectures	124996	0	lectures			
+lect	124996	0	lect			lectures
+leechdom	125150	0	leechdom			
+leechd	125150	0	leechd			leechdom
+legend	125304	0	legend			
+leg	125304	0	leg			legend
+legends	125455	0	legends			
+leg	125455	0	leg			legends
+leicestershire	125607	0	leicestershire			
+leicest	125607	0	leicest			leicestershire
+leicester	125607	0	leicester			leicestershire
+leicestersh	125607	0	leicestersh			leicestershire
+leics	125607	0	leics			leicestershire
+length	125776	0	length			
+len	125776	0	len			length
+letter	125928	0	letter			
+let	125928	0	let			letter
+letters	126080	0	letters			
+lett	126080	0	lett			letters
+leviticus	126233	0	leviticus			
+lev	126233	0	lev			leviticus
+lexicon	126387	0	lexicon			
+lex	126387	0	lex			lexicon
+library	126539	0	library			
+libr	126539	0	libr			library
+lib	126539	0	lib			library
+limnology	126695	0	limnology			
+limnol	126695	0	limnol			limnology
+lincolnshire	126850	0	lincolnshire			
+lincolnsh	126850	0	lincolnsh			lincolnshire
+lincs	126850	0	lincs			lincolnshire
+line	127010	0	line			
+l	127010	0	l			line
+lines	127158	0	lines			
+ll	127158	0	ll			lines
+linguistic	127307	0	linguistic			
+ling	127307	0	ling			linguistic
+linguistics	127462	0	linguistics			
+ling	127462	0	ling			linguistics
+linnean	127617	0	linnean			
+linn	127617	0	linn			linnean
+literal	127769	0	literal			
+lit	127769	0	lit			literal
+literally	127920	0	literally			
+lit	127920	0	lit			literally
+literary	128074	0	literary			
+lit	128074	0	lit			literary
+literature	128226	0	literature			
+lit	128226	0	lit			literature
+lithography	128381	0	lithography			
+lithogr	128381	0	lithogr			lithography
+lithology	128538	0	lithology			
+lithol	128538	0	lithol			lithology
+litre	128693	0	litre			
+l	128693	0	l			litre
+liturgy	128842	0	liturgy			
+liturg	128842	0	liturg			liturgy
+locale	128995	0	locale			
+loc	128995	0	loc			locale
+localization	129146	0	localization			
+l10n	129146	0	l10n			localization
+locate	129303	0	locate			
+loc	129303	0	loc			locate
+location	129454	0	location			
+loc	129454	0	loc			location
+london	129606	0	london			
+lond	129606	0	lond			london
+lord	129757	0	lord			
+ld	129757	0	ld			lord
+lords	129905	0	lords			
+lds	129905	0	lds			lords
+lowercase	130055	0	lowercase			
+low	130055	0	low			lowercase
+maccabees	130209	0	maccabees			
+macc	130209	0	macc			maccabees
+machine	130363	0	machine			
+mach	130363	0	mach			machine
+machines	130515	0	machines			
+mach	130515	0	mach			machines
+magazine	130668	0	magazine			
+mag	130668	0	mag			magazine
+magnetic	130821	0	magnetic			
+magn	130821	0	magn			magnetic
+magnetism	130974	0	magnetism			
+magn	130974	0	magn			magnetism
+malachi	131128	0	malachi			
+mal	131128	0	mal			malachi
+management	131280	0	management			
+managem	131280	0	managem			management
+manchester	131434	0	manchester			
+manch	131434	0	manch			manchester
+manipulation	131590	0	manipulation			
+manip	131590	0	manip			manipulation
+mantissa	131745	0	mantissa			
+mant	131745	0	mant			mantissa
+manual	131898	0	manual			
+man	131898	0	man			manual
+manufacture	132049	0	manufacture			
+manuf	132049	0	manuf			manufacture
+manufactures	132205	0	manufactures			
+manuf	132205	0	manuf			manufactures
+manufacturing	132362	0	manufacturing			
+manuf	132362	0	manuf			manufacturing
+manuscript	132518	0	manuscript			
+ms	132518	0	ms			manuscript
+manuscripts	132672	0	manuscripts			
+mss	132672	0	mss			manuscripts
+march	132828	0	march			
+mar	132828	0	mar			march
+masculine	132979	0	masculine			
+m	132979	0	m			masculine
+masc	132979	0	masc			masculine
+massachussets	133135	0	massachussets			
+mass	133135	0	mass			massachussets
+mathematical	133293	0	mathematical			
+math	133293	0	math			mathematical
+mathematics	133448	0	mathematics			
+math	133448	0	math			mathematics
+matthew	133602	0	matthew			
+matt	133602	0	matt			matthew
+maximum	133755	0	maximum			
+max	133755	0	max			maximum
+measure	133907	0	measure			
+meas	133907	0	meas			measure
+measurement	134060	0	measurement			
+measurem	134060	0	measurem			measurement
+mechanical	134216	0	mechanical			
+mech	134216	0	mech			mechanical
+medical	134371	0	medical			
+med	134371	0	med			medical
+medicine	134523	0	medicine			
+med	134523	0	med			medicine
+medieval	134675	0	medieval			
+med	134675	0	med			medieval
+meditation	134828	0	meditation			
+medit	134828	0	medit			meditation
+meeting	134981	0	meeting			
+mtg	134981	0	mtg			meeting
+memoir	135133	0	memoir			
+mem	135133	0	mem			memoir
+memoirs	135284	0	memoirs			
+mem	135284	0	mem			memoirs
+memory	135435	0	memory			
+mem	135435	0	mem			memory
+merchant	135586	0	merchant			
+merch	135586	0	merch			merchant
+merchants	135740	0	merchants			
+merch	135740	0	merch			merchants
+mercury	135895	0	mercury			
+merc	135895	0	merc			mercury
+message	136048	0	message			
+msg	136048	0	msg			message
+metalliferous	136201	0	metalliferous			
+metallif	136201	0	metallif			metalliferous
+metallographic	136360	0	metallographic			
+metallogr	136360	0	metallogr			metallographic
+metallographical	136520	0	metallographical			
+metallogr	136520	0	metallogr			metallographical
+metallography	136682	0	metallography			
+metallogr	136682	0	metallogr			metallography
+metallurgy	136841	0	metallurgy			
+metall	136841	0	metall			metallurgy
+metamorphosis	136996	0	metamorphosis			
+metamorph	136996	0	metamorph			metamorphosis
+metaphorical	137155	0	metaphorical			
+metaphor	137155	0	metaphor			metaphorical
+metaphorically	137313	0	metaphorically			
+metaphor	137313	0	metaphor			metaphorically
+metaphysics	137472	0	metaphysics			
+metaph	137472	0	metaph			metaphysics
+meteorologic	137628	0	meteorologic			
+meteorol	137628	0	meteorol			meteorologic
+meteorological	137786	0	meteorological			
+meteorol	137786	0	meteorol			meteorological
+meteorology	137946	0	meteorology			
+meteorol	137946	0	meteorol			meteorology
+method	138103	0	method			
+meth	138103	0	meth			method
+metre	138255	0	metre			
+m	138255	0	m			metre
+metropolis	138404	0	metropolis			
+metrop	138404	0	metrop			metropolis
+metropolitan	138559	0	metropolitan			
+metrop	138559	0	metrop			metropolitan
+mexican	138716	0	mexican			
+mex	138716	0	mex			mexican
+micah	138868	0	micah			
+mic	138868	0	mic			micah
+michigan	139019	0	michigan			
+mich	139019	0	mich			michigan
+microbiology	139172	0	microbiology			
+microbiol	139172	0	microbiol			microbiology
+microphone	139330	0	microphone			
+mike	139330	0	mike			microphone
+microscopic	139485	0	microscopic			
+microsc	139485	0	microsc			microscopic
+microscopical	139641	0	microscopical			
+microsc	139641	0	microsc			microscopical
+midland	139799	0	midland			
+midl	139799	0	midl			midland
+mile	139951	0	mile			
+m	139951	0	m			mile
+military	140099	0	military			
+mil	140099	0	mil			military
+milit	140099	0	milit			military
+milligram	140255	0	milligram			
+mg	140255	0	mg			milligram
+millimetre	140407	0	millimetre			
+mm	140407	0	mm			millimetre
+million	140560	0	million			
+m	140560	0	m			million
+minaralogic	140710	0	minaralogic			
+mineral	140710	0	mineral			minaralogic
+minaralogical	140867	0	minaralogical			
+mineral	140867	0	mineral			minaralogical
+mineralogy	141026	0	mineralogy			
+min	141026	0	min			mineralogy
+mineral	141026	0	mineral			mineralogy
+minimum	141185	0	minimum			
+min	141185	0	min			minimum
+minute	141337	0	minute			
+min	141337	0	min			minute
+miscellanelaneous	141488	0	miscellanelaneous			
+misc	141488	0	misc			miscellanelaneous
+miscellany	141648	0	miscellany			
+misc	141648	0	misc			miscellany
+miscell	141648	0	miscell			miscellany
+misprinted	141806	0	misprinted			
+mispr	141806	0	mispr			misprinted
+modern	141960	0	modern			
+mod	141960	0	mod			modern
+modification	142111	0	modification			
+mod	142111	0	mod			modification
+modify	142266	0	modify			
+mod	142266	0	mod			modify
+module	142417	0	module			
+mod	142417	0	mod			module
+modulo	142568	0	modulo			
+mod	142568	0	mod			modulo
+monday	142719	0	monday			
+mon	142719	0	mon			monday
+monument	142871	0	monument			
+monum	142871	0	monum			monument
+morphology	143024	0	morphology			
+morphol	143024	0	morphol			morphology
+motorway	143180	0	motorway			
+m	143180	0	m			motorway
+mount	143332	0	mount			
+mt	143332	0	mt			mount
+mountain	143481	0	mountain			
+mt	143481	0	mt			mountain
+mountains	143635	0	mountains			
+mts	143635	0	mts			mountains
+multiple	143789	0	multiple			
+multi	143789	0	multi			multiple
+multiply	143942	0	multiply			
+mul	143942	0	mul			multiply
+municipal	144096	0	municipal			
+munic	144096	0	munic			municipal
+munificence	144250	0	munificence			
+munif	144250	0	munif			munificence
+muniment	144405	0	muniment			
+munim	144405	0	munim			muniment
+museum	144558	0	museum			
+mus	144558	0	mus			museum
+music	144710	0	music			
+mus	144710	0	mus			music
+musical	144860	0	musical			
+mus	144860	0	mus			musical
+mutable	145012	0	mutable			
+mut	145012	0	mut			mutable
+mutate	145165	0	mutate			
+mut	145165	0	mut			mutate
+mutation	145317	0	mutation			
+mut	145317	0	mut			mutation
+mystery	145469	0	mystery			
+myst	145469	0	myst			mystery
+mythology	145622	0	mythology			
+myth	145622	0	myth			mythology
+mythol	145622	0	mythol			mythology
+nahum	145782	0	nahum			
+nah	145782	0	nah			nahum
+narrative	145933	0	narrative			
+narr	145933	0	narr			narrative
+narrat	145933	0	narrat			narrative
+natural	146091	0	natural			
+nat	146091	0	nat			natural
+nautical	146243	0	nautical			
+naut	146243	0	naut			nautical
+naval	146396	0	naval			
+nav	146396	0	nav			naval
+navigation	146547	0	navigation			
+nav	146547	0	nav			navigation
+navig	146547	0	navig			navigation
+nehemiah	146705	0	nehemiah			
+neh	146705	0	neh			nehemiah
+neighbour	146858	0	neighbour			
+neighb	146858	0	neighb			neighbour
+neighbourhood	147013	0	neighbourhood			
+neighb	147013	0	neighb			neighbourhood
+nervous	147171	0	nervous			
+nerv	147171	0	nerv			nervous
+network	147323	0	network			
+net	147323	0	net			network
+neurologic	147475	0	neurologic			
+neurol	147475	0	neurol			neurologic
+neurological	147629	0	neurological			
+neurol	147629	0	neurol			neurological
+neurology	147786	0	neurology			
+neurol	147786	0	neurol			neurology
+neurosurgery	147940	0	neurosurgery			
+neurosurg	147940	0	neurosurg			neurosurgery
+neuter	148099	0	neuter			
+n	148099	0	n			neuter
+newcastle	148250	0	newcastle			
+newc	148250	0	newc			newcastle
+newsprint	148403	0	newsprint			
+newspr	148403	0	newspr			newsprint
+nominative	148556	0	nominative			
+nom	148556	0	nom			nominative
+nonce word	148710	0	nonce-word			
+nonce wd	148710	0	nonce-wd			nonce-word
+nonconformist	148865	0	nonconformist			
+non conf	148865	0	non-conf			nonconformist
+nonconf	148865	0	nonconf			nonconformist
+norfolk	149028	0	norfolk			
+norf	149028	0	norf			norfolk
+north	149181	0	north			
+n	149181	0	n			north
+northamptonshire	149329	0	northamptonshire			
+northamptonsh	149329	0	northamptonsh			northamptonshire
+northants	149329	0	northants			northamptonshire
+northern	149493	0	northern			
+n	149493	0	n			northern
+north	149493	0	north			northern
+northumberland	149650	0	northumberland			
+northumb	149650	0	northumb			northumberland
+northumbld	149650	0	northumbld			northumberland
+northumbrian	149814	0	northumbrian			
+northumb	149814	0	northumb			northumbrian
+northumbr	149814	0	northumbr			northumbrian
+norwegian	149976	0	norwegian			
+norw	149976	0	norw			norwegian
+norweg	149976	0	norweg			norwegian
+nottinghamshire	150135	0	nottinghamshire			
+notts	150135	0	notts			nottinghamshire
+noun	150296	0	noun			
+n	150296	0	n			noun
+nouns	150444	0	nouns			
+ns	150444	0	ns			nouns
+november	150593	0	november			
+nov	150593	0	nov			november
+nuclear	150746	0	nuclear			
+nucl	150746	0	nucl			nuclear
+number	150899	0	number			
+num	150899	0	num			number
+no.	150899	0	no.			number
+numbers	151055	0	numbers			
+num	151055	0	num			numbers
+numismatics	151207	0	numismatics			
+numism	151207	0	numism			numismatics
+obadiah	151363	0	obadiah			
+obad	151363	0	obad			obadiah
+obedience	151516	0	obedience			
+obed	151516	0	obed			obedience
+object	151670	0	object			
+obj	151670	0	obj			object
+objective	151822	0	objective			
+obj	151822	0	obj			objective
+oblique	151975	0	oblique			
+obl	151975	0	obl			oblique
+observation	152128	0	observation			
+observ	152128	0	observ			observation
+obsolete	152282	0	obsolete			
+obs	152282	0	obs			obsolete
+obstetric	152435	0	obstetric			
+obstet	152435	0	obstet			obstetric
+obstetr	152435	0	obstetr			obstetric
+occasional	152594	0	occasional			
+occas	152594	0	occas			occasional
+occasionally	152747	0	occasionally			
+occas	152747	0	occas			occasionally
+occupation	152902	0	occupation			
+occup	152902	0	occup			occupation
+occupational	153055	0	occupational			
+occup	153055	0	occup			occupational
+occurrence	153209	0	occurrence			
+occurr	153209	0	occurr			occurrence
+oceanographic	153364	0	oceanographic			
+oceanogr	153364	0	oceanogr			oceanographic
+oceanographical	153522	0	oceanographical			
+oceanogr	153522	0	oceanogr			oceanographical
+oceanography	153682	0	oceanography			
+oceanogr	153682	0	oceanogr			oceanography
+october	153840	0	october			
+oct	153840	0	oct			october
+office	153992	0	office			
+off	153992	0	off			office
+official	154143	0	official			
+off	154143	0	off			official
+offic	154143	0	offic			official
+oklahoma	154301	0	oklahoma			
+okla	154301	0	okla			oklahoma
+ontario	154455	0	ontario			
+ont	154455	0	ont			ontario
+operate	154607	0	operate			
+op	154607	0	op			operate
+operation	154759	0	operation			
+op	154759	0	op			operation
+operator	154910	0	operator			
+op	154910	0	op			operator
+ophtalmologic	155063	0	ophtalmologic			
+ophthalmol	155063	0	ophthalmol			ophtalmologic
+ophtalmological	155223	0	ophtalmological			
+ophthalmol	155223	0	ophthalmol			ophtalmological
+ophthalmology	155385	0	ophthalmology			
+ophthalm	155385	0	ophthalm			ophthalmology
+ophthalmol	155385	0	ophthalmol			ophthalmology
+oppression	155548	0	oppression			
+oppress	155548	0	oppress			oppression
+optics	155702	0	optics			
+opt	155702	0	opt			optics
+option	155853	0	option			
+opt	155853	0	opt			option
+oracle	156003	0	oracle			
+orac	156003	0	orac			oracle
+order	156154	0	order			
+ord	156154	0	ord			order
+ordinance	156304	0	ordinance			
+ord	156304	0	ord			ordinance
+organic	156457	0	organic			
+org	156457	0	org			organic
+origin	156609	0	origin			
+orig	156609	0	orig			origin
+original	156760	0	original			
+orig	156760	0	orig			original
+originate	156913	0	originate			
+orig	156913	0	orig			originate
+origination	157067	0	origination			
+orig	157067	0	orig			origination
+orkney	157221	0	orkney			
+orkn	157221	0	orkn			orkney
+ornithologic	157373	0	ornithologic			
+ornithol	157373	0	ornithol			ornithologic
+ornithological	157531	0	ornithological			
+ornithol	157531	0	ornithol			ornithological
+ornithology	157691	0	ornithology			
+ornith	157691	0	ornith			ornithology
+ornithol	157691	0	ornithol			ornithology
+orthography	157851	0	orthography			
+orthogr	157851	0	orthogr			orthography
+outline	158008	0	outline			
+outl	158008	0	outl			outline
+overflow	158160	0	overflow			
+ovfl	158160	0	ovfl			overflow
+oxford	158314	0	oxford			
+oxf	158314	0	oxf			oxford
+oxfordshire	158465	0	oxfordshire			
+oxfordsh	158465	0	oxfordsh			oxfordshire
+oxon	158465	0	oxon			oxfordshire
+package	158625	0	package			
+pkg	158625	0	pkg			package
+page	158778	0	page			
+p	158778	0	p			page
+pages	158926	0	pages			
+pp	158926	0	pp			pages
+palaeobotany	159075	0	palaeobotany			
+palaeobot	159075	0	palaeobot			palaeobotany
+palaeography	159233	0	palaeography			
+palaeogr	159233	0	palaeogr			palaeography
+palaeontologic	159391	0	palaeontologic			
+palaeontol	159391	0	palaeontol			palaeontologic
+palaeontological	159550	0	palaeontological			
+palaeontol	159550	0	palaeontol			palaeontological
+palaeontology	159711	0	palaeontology			
+palaeont	159711	0	palaeont			palaeontology
+palaeontol	159711	0	palaeontol			palaeontology
+paraphrase	159873	0	paraphrase			
+paraphr	159873	0	paraphr			paraphrase
+paraphrased	160029	0	paraphrased			
+paraphr	160029	0	paraphr			paraphrased
+parasitology	160186	0	parasitology			
+parasitol	160186	0	parasitol			parasitology
+parliament	160344	0	parliament			
+parl	160344	0	parl			parliament
+parliamentary	160498	0	parliamentary			
+parl	160498	0	parl			parliamentary
+parnassus	160654	0	parnassus			
+parnass	160654	0	parnass			parnassus
+part	160808	0	part			
+pt	160808	0	pt			part
+participial	160956	0	participial			
+ppl	160956	0	ppl			participial
+participle	161110	0	participle			
+pple	161110	0	pple			participle
+participles	161264	0	participles			
+pples	161264	0	pples			participles
+passive	161419	0	passive			
+pass	161419	0	pass			passive
+passively	161571	0	passively			
+pass	161571	0	pass			passively
+past	161725	0	past			
+pa	161725	0	pa			past
+pathologic	161873	0	pathologic			
+path	161873	0	path			pathologic
+pathol	161873	0	pathol			pathologic
+pathological	162032	0	pathological			
+path	162032	0	path			pathological
+pathol	162032	0	pathol			pathological
+pathology	162192	0	pathology			
+path	162192	0	path			pathology
+pathol	162192	0	pathol			pathology
+peculation	162352	0	peculation			
+peculat	162352	0	peculat			peculation
+pence	162506	0	pence			
+p	162506	0	p			pence
+peninsula	162655	0	peninsula			
+penins	162655	0	penins			peninsula
+pennsylvania	162809	0	pennsylvania			
+pa	162809	0	pa			pennsylvania
+perfect	162965	0	perfect			
+perf	162965	0	perf			perfect
+pf	162965	0	pf			perfect
+perfection	163121	0	perfection			
+perf	163121	0	perf			perfection
+perform	163274	0	perform			
+perf	163274	0	perf			perform
+performance	163427	0	performance			
+perf	163427	0	perf			performance
+perhaps	163583	0	perhaps			
+perh	163583	0	perh			perhaps
+perimeter	163735	0	perimeter			
+perim	163735	0	perim			perimeter
+periodontologic	163889	0	periodontologic			
+periodontol	163889	0	periodontol			periodontologic
+periodontological	164048	0	periodontological			
+periodontol	164048	0	periodontol			periodontological
+periodontology	164209	0	periodontology			
+periodontol	164209	0	periodontol			periodontology
+perpendicular	164368	0	perpendicular			
+perp	164368	0	perp			perpendicular
+persecution	164525	0	persecution			
+persec	164525	0	persec			persecution
+persian	164680	0	persian			
+pers	164680	0	pers			persian
+person	164832	0	person			
+pers	164832	0	pers			person
+personal	164983	0	personal			
+pers	164983	0	pers			personal
+personified	165136	0	personified			
+personif	165136	0	personif			personified
+perthshire	165293	0	perthshire			
+perthsh	165293	0	perthsh			perthshire
+peter	165448	0	peter			
+pet	165448	0	pet			peter
+petrographic	165599	0	petrographic			
+petrogr	165599	0	petrogr			petrographic
+petrographical	165757	0	petrographical			
+petrogr	165757	0	petrogr			petrographical
+petrography	165917	0	petrography			
+petrogr	165917	0	petrogr			petrography
+petrologic	166074	0	petrologic			
+petrol	166074	0	petrol			petrologic
+petrological	166229	0	petrological			
+petrol	166229	0	petrol			petrological
+petrology	166386	0	petrology			
+petrol	166386	0	petrol			petrology
+pharmaceutical	166541	0	pharmaceutical			
+pharmaceut	166541	0	pharmaceut			pharmaceutical
+pharmacological	166700	0	pharmacological			
+pharmacol	166700	0	pharmacol			pharmacological
+pharmacology	166860	0	pharmacology			
+pharm	166860	0	pharm			pharmacology
+pharmacol	166860	0	pharmacol			pharmacology
+philadelphia	167021	0	philadelphia			
+philad	167021	0	philad			philadelphia
+philemon	167176	0	philemon			
+philem	167176	0	philem			philemon
+philippians	167329	0	philippians			
+phil	167329	0	phil			philippians
+philipp	167329	0	philipp			philippians
+philologic	167488	0	philologic			
+philol	167488	0	philol			philologic
+philological	167642	0	philological			
+philol	167642	0	philol			philological
+philology	167799	0	philology			
+philol	167799	0	philol			philology
+philosophic	167953	0	philosophic			
+phil	167953	0	phil			philosophic
+philos	167953	0	philos			philosophic
+philosophical	168112	0	philosophical			
+phil	168112	0	phil			philosophical
+philos	168112	0	philos			philosophical
+philosophy	168271	0	philosophy			
+phil	168271	0	phil			philosophy
+philos	168271	0	philos			philosophy
+phoenician	168430	0	phoenician			
+phoen	168430	0	phoen			phoenician
+phonetic	168585	0	phonetic			
+phonet	168585	0	phonet			phonetic
+phonetically	168738	0	phonetically			
+phonet	168738	0	phonet			phonetically
+phonology	168895	0	phonology			
+phonol	168895	0	phonol			phonology
+photographic	169049	0	photographic			
+photogr	169049	0	photogr			photographic
+photographical	169207	0	photographical			
+photogr	169207	0	photogr			photographical
+photography	169367	0	photography			
+photog	169367	0	photog			photography
+photogr	169367	0	photogr			photography
+phrase	169527	0	phrase			
+phr	169527	0	phr			phrase
+phrenology	169678	0	phrenology			
+phrenol	169678	0	phrenol			phrenology
+physiography	169834	0	physiography			
+physiogr	169834	0	physiogr			physiography
+physiologic	169991	0	physiologic			
+physiol	169991	0	physiol			physiologic
+physiological	170147	0	physiological			
+physiol	170147	0	physiol			physiological
+physiology	170306	0	physiology			
+phys	170306	0	phys			physiology
+physiol	170306	0	physiol			physiology
+pictorial	170465	0	pictorial			
+pict	170465	0	pict			pictorial
+picture	170618	0	picture			
+pict	170618	0	pict			picture
+pictures	170770	0	pictures			
+pict	170770	0	pict			pictures
+pint	170923	0	pint			
+pt	170923	0	pt			pint
+plural	171071	0	plural			
+pl	171071	0	pl			plural
+plur	171071	0	plur			plural
+poetic	171227	0	poetic			
+poet	171227	0	poet			poetic
+poetical	171378	0	poetical			
+poet	171378	0	poet			poetical
+pointer	171532	0	pointer			
+ptr	171532	0	ptr			pointer
+political	171684	0	political			
+pol	171684	0	pol			political
+polit	171684	0	polit			political
+politics	171842	0	politics			
+pol	171842	0	pol			politics
+polit	171842	0	polit			politics
+polytechnic	171999	0	polytechnic			
+polytechn	171999	0	polytechn			polytechnic
+polytechnical	172155	0	polytechnical			
+polytechn	172155	0	polytechn			polytechnical
+popular	172313	0	popular			
+pop	172313	0	pop			popular
+popularly	172465	0	popularly			
+pop	172465	0	pop			popularly
+porcelain	172619	0	porcelain			
+porc	172619	0	porc			porcelain
+portuguese	172773	0	portuguese			
+port	172773	0	port			portuguese
+position	172929	0	position			
+pos	172929	0	pos			position
+positive	173080	0	positive			
+pos	173080	0	pos			positive
+possessive	173233	0	possessive			
+poss	173233	0	poss			possessive
+possible	173389	0	possible			
+poss	173389	0	poss			possible
+possibly	173542	0	possibly			
+poss	173542	0	poss			possibly
+posthumous	173695	0	posthumous			
+posth	173695	0	posth			posthumous
+posthumously	173851	0	posthumously			
+posth	173851	0	posth			posthumously
+postmaster	174008	0	postmaster			
+postm	174008	0	postm			postmaster
+pottery	174163	0	pottery			
+pott	174163	0	pott			pottery
+pound	174316	0	pound			
+lb	174316	0	lb			pound
+practical	174466	0	practical			
+pract	174466	0	pract			practical
+practice	174619	0	practice			
+pract	174619	0	pract			practice
+preceding	174771	0	preceding			
+prec	174771	0	prec			preceding
+predicate	174922	0	predicate			
+pred	174922	0	pred			predicate
+predic	174922	0	predic			predicate
+predicative	175081	0	predicative			
+predic	175081	0	predic			predicative
+predicatively	175236	0	predicatively			
+predic	175236	0	predic			predicatively
+prediction	175393	0	prediction			
+predict	175393	0	predict			prediction
+preface	175546	0	preface			
+pref	175546	0	pref			preface
+prefer	175699	0	prefer			
+pref	175699	0	pref			prefer
+preference	175851	0	preference			
+pref	175851	0	pref			preference
+prefix	176006	0	prefix			
+pref	176006	0	pref			prefix
+prehistoric	176158	0	prehistoric			
+preh	176158	0	preh			prehistoric
+prehist	176158	0	prehist			prehistoric
+prehistory	176318	0	prehistory			
+prehist	176318	0	prehist			prehistory
+preposition	176474	0	preposition			
+prep	176474	0	prep			preposition
+prepositional	176628	0	prepositional			
+prep	176628	0	prep			prepositional
+prerogative	176783	0	prerogative			
+prerog	176783	0	prerog			prerogative
+presbyterian	176939	0	presbyterian			
+presb	176939	0	presb			presbyterian
+presbytery	177095	0	presbytery			
+presb	177095	0	presb			presbytery
+present	177250	0	present			
+pr	177250	0	pr			present
+pres	177250	0	pres			present
+preservation	177406	0	preservation			
+preserv	177406	0	preserv			preservation
+previous	177561	0	previous			
+prev	177561	0	prev			previous
+primer	177714	0	primer			
+prim	177714	0	prim			primer
+principle	177865	0	principle			
+princ	177865	0	princ			principle
+printing	178017	0	printing			
+print	178017	0	print			printing
+privative	178169	0	privative			
+priv	178169	0	priv			privative
+probabilities	178323	0	probabilities			
+probab	178323	0	probab			probabilities
+probability	178480	0	probability			
+probab	178480	0	probab			probability
+prob	178480	0	prob			probability
+probably	178638	0	probably			
+prob	178638	0	prob			probably
+problem	178792	0	problem			
+probl	178792	0	probl			problem
+procedure	178944	0	procedure			
+proc	178944	0	proc			procedure
+proceedings	179099	0	proceedings			
+proc	179099	0	proc			proceedings
+process	179254	0	process			
+proc	179254	0	proc			process
+product	179406	0	product			
+prod	179406	0	prod			product
+professor	179559	0	professor			
+prof	179559	0	Prof			professor
+profile	179715	0	profile			
+prof	179715	0	prof			profile
+program	179868	0	program			
+prog	179868	0	prog			program
+progress	180021	0	progress			
+prog	180021	0	prog			progress
+project	180175	0	project			
+proj	180175	0	proj			project
+prologue	180328	0	prologue			
+prol	180328	0	prol			prologue
+pronoun	180482	0	pronoun			
+pron	180482	0	pron			pronoun
+pronounce	180635	0	pronounce			
+pron	180635	0	pron			pronounce
+pronunciation	180789	0	pronunciation			
+pron	180789	0	pron			pronunciation
+pronunc	180789	0	pronunc			pronunciation
+properly	180948	0	properly			
+prop	180948	0	prop			properly
+properties	181102	0	properties			
+prop	181102	0	prop			properties
+property	181257	0	property			
+prop	181257	0	prop			property
+proportion	181411	0	proportion			
+prop	181411	0	prop			proportion
+proprietary	181564	0	proprietary			
+propr	181564	0	propr			proprietary
+prosody	181718	0	prosody			
+pros	181718	0	pros			prosody
+protocol	181870	0	protocol			
+prot	181870	0	prot			protocol
+prototype	182023	0	prototype			
+proto	182023	0	proto			prototype
+proverb	182176	0	proverb			
+prov	182176	0	prov			proverb
+proverbial	182329	0	proverbial			
+prov	182329	0	prov			proverbial
+proverbly	182484	0	proverbly			
+prov	182484	0	prov			proverbly
+proverbs	182638	0	proverbs			
+prov	182638	0	prov			proverbs
+providence	182792	0	providence			
+provid	182792	0	provid			providence
+provincial	182947	0	provincial			
+provinc	182947	0	provinc			provincial
+provisional	183101	0	provisional			
+provis	183101	0	provis			provisional
+psalms	183255	0	psalms			
+ps	183255	0	ps			psalms
+pseudo archaic	183406	0	pseudo-archaic			
+pseudo arch	183406	0	pseudo-arch			pseudo-archaic
+pseudo dialect	183566	0	pseudo-dialect			
+pseudo dial	183566	0	pseudo-dial			pseudo-dialect
+pseudo scots	183726	0	pseudo-scots			
+pseudo sc	183726	0	pseudo-sc			pseudo-scots
+psychoanalysis	183884	0	psychoanalysis			
+psychoanal	183884	0	psychoanal			psychoanalysis
+psychoanalytic	184043	0	psychoanalytic			
+psychoanalyt	184043	0	psychoanalyt			psychoanalytic
+psychologic	184201	0	psychologic			
+psychol	184201	0	psychol			psychologic
+psychological	184358	0	psychological			
+psychol	184358	0	psychol			psychological
+psychology	184516	0	psychology			
+psych	184516	0	psych			psychology
+psychol	184516	0	psychol			psychology
+psychopathologic	184675	0	psychopathologic			
+psychopathol	184675	0	psychopathol			psychopathologic
+psychopathological	184836	0	psychopathological			
+psychopathol	184836	0	psychopathol			psychopathological
+psychopathology	184998	0	psychopathology			
+psychopathol	184998	0	psychopathol			psychopathology
+public	185158	0	public			
+publ	185158	0	publ			public
+publication	185310	0	publication			
+publ	185310	0	publ			publication
+punctuate	185464	0	punctuate			
+punc	185464	0	punc			punctuate
+punctuation	185619	0	punctuation			
+punc	185619	0	punc			punctuation
+purgatory	185774	0	purgatory			
+purg	185774	0	purg			purgatory
+quadratic	185929	0	quadratic			
+quad	185929	0	quad			quadratic
+quart	186084	0	quart			
+qt	186084	0	qt			quart
+queen	186234	0	queen			
+q	186234	0	q			queen
+queensland	186383	0	queensland			
+qld	186383	0	qld			queensland
+query	186539	0	query			
+qry	186539	0	qry			query
+question	186689	0	question			
+ques	186689	0	ques			question
+quotation	186842	0	quotation			
+quot	186842	0	quot			quotation
+quotations	186996	0	quotations			
+quots	186996	0	quots			quotations
+quotient	187151	0	quotient			
+quot	187151	0	quot			quotient
+radiology	187305	0	radiology			
+radiol	187305	0	radiol			radiology
+random	187459	0	random			
+rand	187459	0	rand			random
+reason	187610	0	reason			
+reas	187610	0	reas			reason
+rebellion	187761	0	rebellion			
+reb	187761	0	reb			rebellion
+rebell	187761	0	rebell			rebellion
+receive	187919	0	receive			
+recv	187919	0	recv			receive
+reclamation	188071	0	reclamation			
+reclam	188071	0	reclam			reclamation
+recollection	188225	0	recollection			
+recoll	188225	0	recoll			recollection
+record	188379	0	record			
+rec	188379	0	rec			record
+rectangle	188530	0	rectangle			
+rect	188530	0	rect			rectangle
+recursive	188684	0	recursive			
+rec	188684	0	rec			recursive
+redemption	188838	0	redemption			
+redempt	188838	0	redempt			redemption
+reduplicating	188992	0	reduplicating			
+redupl	188992	0	redupl			reduplicating
+refashioned	189147	0	refashioned			
+refash	189147	0	refash			refashioned
+refashioning	189302	0	refashioning			
+refash	189302	0	refash			refashioning
+reference	189457	0	reference			
+ref	189457	0	ref			reference
+reflection	189611	0	reflection			
+refl	189611	0	refl			reflection
+reflexive	189764	0	reflexive			
+refl	189764	0	refl			reflexive
+reformation	189919	0	reformation			
+ref	189919	0	ref			reformation
+refusal	190074	0	refusal			
+refus	190074	0	refus			refusal
+refutation	190226	0	refutation			
+refut	190226	0	refut			refutation
+regicide	190380	0	regicide			
+regic	190380	0	regic			regicide
+register	190533	0	register			
+reg	190533	0	reg			register
+regist	190533	0	regist			register
+regr	190533	0	regr			register
+regular	190694	0	regular			
+reg	190694	0	reg			regular
+related	190846	0	related			
+rel	190846	0	rel			related
+relating	190998	0	relating			
+rel	190998	0	rel			relating
+relation	191149	0	relation			
+rel	191149	0	rel			relation
+relative	191301	0	relative			
+rel	191301	0	rel			relative
+religion	191454	0	religion			
+relig	191454	0	relig			religion
+religious	191607	0	religious			
+relig	191607	0	relig			religious
+reminiscence	191761	0	reminiscence			
+reminisc	191761	0	reminisc			reminiscence
+remonstrance	191918	0	remonstrance			
+remonstr	191918	0	remonstr			remonstrance
+renfrewshire	192076	0	renfrewshire			
+renfrewsh	192076	0	renfrewsh			renfrewshire
+report	192234	0	report			
+rep	192234	0	rep			report
+rept	192234	0	rept			report
+repository	192389	0	repository			
+repo	192389	0	repo			repository
+representative	192544	0	representative			
+repr	192544	0	repr			representative
+representing	192702	0	representing			
+repr	192702	0	repr			representing
+reproduction	192857	0	reproduction			
+reprod	192857	0	reprod			reproduction
+reproductive	193012	0	reproductive			
+reprod	193012	0	reprod			reproductive
+republic	193168	0	republic			
+repub	193168	0	repub			republic
+research	193321	0	research			
+res	193321	0	res			research
+residence	193474	0	residence			
+resid	193474	0	resid			residence
+residential	193627	0	residential			
+resid	193627	0	resid			residential
+respond	193781	0	respond			
+resp	193781	0	resp			respond
+response	193933	0	response			
+resp	193933	0	resp			response
+responsive	194087	0	responsive			
+resp	194087	0	resp			responsive
+retrospective	194242	0	retrospective			
+retrosp	194242	0	retrosp			retrospective
+return	194399	0	return			
+ret	194399	0	ret			return
+revelation	194551	0	revelation			
+rev	194551	0	rev			revelation
+reverse	194704	0	reverse			
+rev	194704	0	rev			reverse
+review	194856	0	review			
+rev	194856	0	rev			review
+revised	195007	0	revised			
+rev	195007	0	rev			revised
+revolution	195159	0	revolution			
+revol	195159	0	revol			revolution
+rhetoric	195312	0	rhetoric			
+rhet	195312	0	rhet			rhetoric
+rhetorical	195465	0	rhetorical			
+rhet	195465	0	rhet			rhetorical
+rhetorically	195620	0	rhetorically			
+rhet	195620	0	rhet			rhetorically
+richard	195776	0	richard			
+rich	195776	0	rich			richard
+road	195928	0	road			
+rd	195928	0	Rd			road
+roman	196077	0	roman			
+rom	196077	0	rom			roman
+romans	196227	0	romans			
+rom	196227	0	rom			romans
+ross shire	196378	0	ross-shire			
+ross sh	196378	0	ross-sh			ross-shire
+roxburgh	196534	0	roxburgh			
+roxb	196534	0	roxb			roxburgh
+royal	196689	0	royal			
+roy	196689	0	roy			royal
+r	196689	0	r			royal
+rudiment	196841	0	rudiment			
+rudim	196841	0	rudim			rudiment
+russia	196994	0	russia			
+russ	196994	0	russ			russia
+russian	197146	0	russian			
+russ	197146	0	russ			russian
+saint	197298	0	saint			
+st	197298	0	st			saint
+saints	197447	0	saints			
+ss	197447	0	ss			saints
+samuel	197599	0	samuel			
+sam	197599	0	sam			samuel
+saskatchewan	197750	0	saskatchewan			
+sask	197750	0	sask			saskatchewan
+saturday	197907	0	saturday			
+sat	197907	0	sat			saturday
+saxon	198061	0	saxon			
+sax	198061	0	sax			saxon
+scandinavia	198211	0	scandinavia			
+scand	198211	0	scand			scandinavia
+scandinavian	198365	0	scandinavian			
+scand	198365	0	scand			scandinavian
+schedule	198521	0	schedule			
+sched	198521	0	sched			schedule
+school	198675	0	school			
+sch	198675	0	sch			school
+science	198826	0	science			
+sci	198826	0	sci			science
+scientific	198977	0	scientific			
+sci	198977	0	sci			scientific
+scilicet	199131	0	scilicet			
+sc	199131	0	sc			scilicet
+scotland	199283	0	scotland			
+scotl	199283	0	scotl			scotland
+scots	199436	0	scots			
+sc	199436	0	sc			scots
+scottish	199585	0	scottish			
+sc	199585	0	sc			scottish
+scot	199585	0	scot			scottish
+scripture	199742	0	scripture			
+script	199742	0	script			scripture
+sculpture	199896	0	sculpture			
+sculpt	199896	0	sculpt			sculpture
+second	200050	0	second			
+sec	200050	0	sec			second
+segment	200201	0	segment			
+seg	200201	0	seg			segment
+seismology	200353	0	seismology			
+seismol	200353	0	seismol			seismology
+selected	200508	0	selected			
+sel	200508	0	sel			selected
+selection	200661	0	selection			
+select	200661	0	select			selection
+semaphore	200812	0	semaphore			
+sem	200812	0	sem			semaphore
+sentence	200966	0	sentence			
+sent	200966	0	sent			sentence
+september	201119	0	september			
+sept	201119	0	sept			september
+sequence	201273	0	sequence			
+seq	201273	0	seq			sequence
+series	201426	0	series			
+ser	201426	0	ser			series
+sermon	201577	0	sermon			
+serm	201577	0	serm			sermon
+server	201728	0	server			
+srv	201728	0	srv			server
+session	201879	0	session			
+sess	201879	0	sess			session
+settlement	202031	0	settlement			
+settlem	202031	0	settlem			settlement
+several	202186	0	several			
+sev	202186	0	sev			several
+shakespeare	202338	0	shakespeare			
+shakes	202338	0	shakes			shakespeare
+shaks	202338	0	shaks			shakespeare
+shepherd	202496	0	shepherd			
+sheph	202496	0	sheph			shepherd
+shetland	202650	0	shetland			
+shetl	202650	0	shetl			shetland
+shropshire	202804	0	shropshire			
+shropsh	202804	0	shropsh			shropshire
+simulate	202960	0	simulate			
+sim	202960	0	sim			simulate
+simulation	203114	0	simulation			
+sim	203114	0	sim			simulation
+singular	203267	0	singular			
+sing	203267	0	sing			singular
+society	203421	0	society			
+soc	203421	0	soc			society
+sociological	203573	0	sociological			
+sociol	203573	0	sociol			sociological
+sociology	203729	0	sociology			
+sociol	203729	0	sociol			sociology
+somerset	203883	0	somerset			
+som	203883	0	som			somerset
+sonnet	204036	0	sonnet			
+sonn	204036	0	sonn			sonnet
+source	204187	0	source			
+src	204187	0	src			source
+south	204339	0	south			
+s	204339	0	s			south
+south west	204488	0	south-west			
+sw	204488	0	SW			south-west
+southern	204644	0	southern			
+south	204644	0	south			southern
+spanish	204798	0	spanish			
+span	204798	0	span			spanish
+special	204950	0	special			
+spec	204950	0	spec			special
+specific	205102	0	specific			
+spec	205102	0	spec			specific
+specifically	205255	0	specifically			
+spec	205255	0	spec			specifically
+specification	205411	0	specification			
+spec	205411	0	spec			specification
+specif	205411	0	specif			specification
+specify	205570	0	specify			
+spec	205570	0	spec			specify
+specimen	205722	0	specimen			
+spec	205722	0	spec			specimen
+specim	205722	0	specim			specimen
+spectroscopy	205880	0	spectroscopy			
+spectrosc	205880	0	spectrosc			spectroscopy
+spelling	206038	0	spelling			
+sp	206038	0	sp			spelling
+square	206190	0	square			
+sq	206190	0	sq			square
+staffordshire	206342	0	staffordshire			
+staff	206342	0	staff			staffordshire
+stafford	206342	0	stafford			staffordshire
+staffordsh	206342	0	staffordsh			staffordshire
+staffs	206342	0	staffs			staffordshire
+standard	206512	0	standard			
+stand	206512	0	stand			standard
+std	206512	0	std			standard
+statement	206669	0	statement			
+stm	206669	0	stm			statement
+statistic	206822	0	statistic			
+stat	206822	0	stat			statistic
+statistical	206976	0	statistical			
+stat	206976	0	stat			statistical
+statist	206976	0	statist			statistical
+stereophonic	207135	0	stereophonic			
+stereo	207135	0	stereo			stereophonic
+stratigraphical	207292	0	stratigraphical			
+stratigr	207292	0	stratigr			stratigraphical
+stratigraphy	207452	0	stratigraphy			
+stratigr	207452	0	stratigr			stratigraphy
+street	207610	0	street			
+st	207610	0	st			street
+string	207762	0	string			
+str	207762	0	str			string
+strong	207912	0	strong			
+str	207912	0	str			strong
+structural	208062	0	structural			
+struct	208062	0	struct			structural
+structure	208217	0	structure			
+struct	208217	0	struct			structure
+studies	208372	0	studies			
+stud	208372	0	stud			studies
+subject	208524	0	subject			
+subj	208524	0	subj			subject
+subjunctive	208677	0	subjunctive			
+subj	208677	0	subj			subjunctive
+subjunct	208677	0	subjunct			subjunctive
+submarine	208838	0	submarine			
+sub	208838	0	sub			submarine
+subordinate	208992	0	subordinate			
+subord	208992	0	subord			subordinate
+subscription	209148	0	subscription			
+subscr	209148	0	subscr			subscription
+subscript	209148	0	subscript			subscription
+sub	209148	0	sub			subscription
+subsequent	209310	0	subsequent			
+subseq	209310	0	subseq			subsequent
+subsequently	209465	0	subsequently			
+subseq	209465	0	subseq			subsequently
+substantive	209622	0	substantive			
+subst	209622	0	subst			substantive
+substantively	209777	0	substantively			
+subst	209777	0	subst			substantively
+substitute	209934	0	substitute			
+sub	209934	0	sub			substitute
+subtract	210088	0	subtract			
+sub	210088	0	sub			subtract
+suffix	210241	0	suffix			
+suff	210241	0	suff			suffix
+suffolk	210393	0	suffolk			
+suff	210393	0	suff			suffolk
+superlative	210547	0	superlative			
+superl	210547	0	superl			superlative
+supplement	210703	0	supplement			
+suppl	210703	0	suppl			supplement
+supplementary	210856	0	supplementary			
+suppl	210856	0	suppl			supplementary
+supplication	211011	0	supplication			
+supplic	211011	0	supplic			supplication
+suppression	211167	0	suppression			
+suppress	211167	0	suppress			suppression
+surgery	211323	0	surgery			
+surg	211323	0	surg			surgery
+surgical	211477	0	surgical			
+surg	211477	0	surg			surgical
+survey	211631	0	survey			
+surv	211631	0	surv			survey
+surveying	211784	0	surveying			
+surv	211784	0	surv			surveying
+susanna	211936	0	susanna			
+sus	211936	0	sus			susanna
+syllable	212088	0	syllable			
+syll	212088	0	syll			syllable
+symmetrical	212241	0	symmetrical			
+symmetr	212241	0	symmetr			symmetrical
+symmetry	212397	0	symmetry			
+symm	212397	0	symm			symmetry
+symposium	212550	0	symposium			
+symp	212550	0	symp			symposium
+synchronized	212705	0	synchronized			
+sync	212705	0	sync			synchronized
+system	212862	0	system			
+syst	212862	0	syst			system
+sys	212862	0	sys			system
+table	213017	0	table			
+tbl	213017	0	tbl			table
+tablespoon	213167	0	tablespoon			
+tbs	213167	0	tbs			tablespoon
+tbsp	213167	0	tbsp			tablespoon
+tangent	213326	0	tangent			
+tan	213326	0	tan			tangent
+taxonomic	213478	0	taxonomic			
+taxon	213478	0	taxon			taxonomic
+taxonomy	213632	0	taxonomy			
+taxon	213632	0	taxon			taxonomy
+teaspoon	213786	0	teaspoon			
+tsp	213786	0	tsp			teaspoon
+technical	213939	0	technical			
+techn	213939	0	techn			technical
+technological	214093	0	technological			
+technol	214093	0	technol			technological
+technology	214251	0	technology			
+technol	214251	0	technol			technology
+tech	214251	0	tech			technology
+telecommunications	214409	0	telecommunications			
+telecomm	214409	0	telecomm			telecommunications
+telegraph	214571	0	telegraph			
+tel	214571	0	tel			telegraph
+telegr	214571	0	telegr			telegraph
+telegraphic	214730	0	telegraphic			
+telegr	214730	0	telegr			telegraphic
+telegraphical	214886	0	telegraphical			
+telegr	214886	0	telegr			telegraphical
+telegraphy	215044	0	telegraphy			
+telegr	215044	0	telegr			telegraphy
+telephone	215199	0	telephone			
+tel	215199	0	tel			telephone
+telephonic	215353	0	telephonic			
+teleph	215353	0	teleph			telephonic
+telephony	215508	0	telephony			
+teleph	215508	0	teleph			telephony
+temporary	215663	0	temporary			
+temp	215663	0	temp			temporary
+tense	215817	0	tense			
+t	215817	0	t			tense
+teratology	215966	0	teratology			
+teratol	215966	0	teratol			teratology
+terminal	216121	0	terminal			
+term	216121	0	term			terminal
+terminate	216274	0	terminate			
+term	216274	0	term			terminate
+termination	216428	0	termination			
+term	216428	0	term			termination
+terminological	216582	0	terminological			
+terminol	216582	0	terminol			terminological
+terminology	216741	0	terminology			
+terminol	216741	0	terminol			terminology
+terrestrial	216898	0	terrestrial			
+terrestr	216898	0	terrestr			terrestrial
+testament	217054	0	testament			
+test	217054	0	test			testament
+textbook	217207	0	textbook			
+textbk	217207	0	textbk			textbook
+theatre	217362	0	theatre			
+theat	217362	0	theat			theatre
+theatr	217362	0	theatr			theatre
+theatrical	217519	0	theatrical			
+theat	217519	0	theat			theatrical
+theatr	217519	0	theatr			theatrical
+theological	217677	0	theological			
+theol	217677	0	theol			theological
+theology	217832	0	theology			
+theol	217832	0	theol			theology
+theoretical	217986	0	theoretical			
+theoret	217986	0	theoret			theoretical
+thermonuclear	218142	0	thermonuclear			
+thermonucl	218142	0	thermonucl			thermonuclear
+thesaurus	218301	0	thesaurus			
+thes	218301	0	thes			thesaurus
+thessalonians	218456	0	thessalonians			
+thess	218456	0	thess			thessalonians
+through	218613	0	through			
+thru	218613	0	thru			through
+thursday	218768	0	thursday			
+thurs	218768	0	thurs			thursday
+timothy	218922	0	timothy			
+tim	218922	0	tim			timothy
+titus	219074	0	titus			
+tit	219074	0	tit			titus
+topographic	219223	0	topographic			
+topogr	219223	0	topogr			topographic
+topographical	219379	0	topographical			
+topogr	219379	0	topogr			topographical
+topography	219537	0	topography			
+topogr	219537	0	topogr			topography
+tradition	219692	0	tradition			
+trad	219692	0	trad			tradition
+traditional	219844	0	traditional			
+trad	219844	0	trad			traditional
+tragedy	219997	0	tragedy			
+trag	219997	0	trag			tragedy
+transaction	220150	0	transaction			
+trans	220150	0	trans			transaction
+transfer	220303	0	transfer			
+xfer	220303	0	xfer			transfer
+transitive	220457	0	transitive			
+trans	220457	0	trans			transitive
+translate	220612	0	translate			
+xlat	220612	0	xlat			translate
+translating	220767	0	translating			
+tr	220767	0	tr			translating
+transl	220767	0	transl			translating
+translation	220924	0	translation			
+tr	220924	0	tr			translation
+transl	220924	0	transl			translation
+transmit	221082	0	transmit			
+xmit	221082	0	xmit			transmit
+transparency	221236	0	transparency			
+xpar	221236	0	xpar			transparency
+transparent	221394	0	transparent			
+xpar	221394	0	xpar			transparent
+transpose	221550	0	transpose			
+xpos	221550	0	xpos			transpose
+transposition	221705	0	transposition			
+xpos	221705	0	xpos			transposition
+transubstantiation	221862	0	transubstantiation			
+transubstant	221862	0	transubstant			transubstantiation
+travel	222023	0	travel			
+trav	222023	0	trav			travel
+treasurer	222175	0	treasurer			
+treas	222175	0	treas			treasurer
+treasury	222330	0	treasury			
+treas	222330	0	treas			treasury
+treatise	222484	0	treatise			
+treat	222484	0	treat			treatise
+treatment	222637	0	treatment			
+treatm	222637	0	treatm			treatment
+tribune	222790	0	tribune			
+trib	222790	0	trib			tribune
+trigonometry	222943	0	trigonometry			
+trig	222943	0	trig			trigonometry
+trigonom	222943	0	trigonom			trigonometry
+tropical	223103	0	tropical			
+trop	223103	0	trop			tropical
+troublesome	223257	0	troublesome			
+troub	223257	0	troub			troublesome
+troubl	223257	0	troubl			troublesome
+tuesday	223417	0	tuesday			
+tues	223417	0	tues			tuesday
+typography	223570	0	typography			
+typog	223570	0	typog			typography
+typogr	223570	0	typogr			typography
+ultimately	223729	0	ultimately			
+ult	223729	0	ult			ultimately
+university	223884	0	university			
+univ	223884	0	univ			university
+unknown	224039	0	unknown			
+unkn	224039	0	unkn			unknown
+unnatural	224192	0	unnatural			
+unnat	224192	0	unnat			unnatural
+unofficial	224346	0	unofficial			
+unoffic	224346	0	unoffic			unofficial
+unstressed	224501	0	unstressed			
+unstr	224501	0	unstr			unstressed
+uppercase	224656	0	uppercase			
+up	224656	0	up			uppercase
+urinary	224809	0	urinary			
+urin	224809	0	urin			urinary
+usually	224960	0	usually			
+usu	224960	0	usu			usually
+utilitarian	225112	0	utilitarian			
+utilit	225112	0	utilit			utilitarian
+utility	225268	0	utility			
+util	225268	0	util			utility
+vacation	225420	0	vacation			
+vac	225420	0	vac			vacation
+valediction	225572	0	valediction			
+valedict	225572	0	valedict			valediction
+variable	225725	0	variable			
+var	225725	0	var			variable
+variance	225878	0	variance			
+var	225878	0	var			variance
+variant	226031	0	variant			
+var	226031	0	var			variant
+variants	226183	0	variants			
+varr	226183	0	varr			variants
+vars	226183	0	vars			variants
+vector	226341	0	vector			
+vec	226341	0	vec			vector
+vegetable	226493	0	vegetable			
+veg	226493	0	veg			vegetable
+venetian	226647	0	venetian			
+venet	226647	0	venet			venetian
+verb	226800	0	verb			
+v	226800	0	v			verb
+vb	226800	0	vb			verb
+verbal	226952	0	verbal			
+vbl	226952	0	vbl			verbal
+verbs	227104	0	verbs			
+vbs	227104	0	vbs			verbs
+versus	227254	0	versus			
+v	227254	0	v			versus
+vs	227254	0	vs			versus
+vertebrate	227408	0	vertebrate			
+vertebr	227408	0	vertebr			vertebrate
+veterinary	227563	0	veterinary			
+vet	227563	0	vet			veterinary
+victoria	227716	0	victoria			
+vic	227716	0	vic			victoria
+vict	227716	0	vict			victoria
+videlicet	227872	0	videlicet			
+viz	227872	0	viz			videlicet
+vindicated	228026	0	vindicated			
+vind	228026	0	vind			vindicated
+vindic	228026	0	vindic			vindicated
+vindication	228184	0	vindication			
+vind	228184	0	vind			vindication
+vindic	228184	0	vindic			vindication
+virgin	228342	0	virgin			
+virg	228342	0	virg			virgin
+virginia	228493	0	virginia			
+va	228493	0	va			virginia
+virology	228645	0	virology			
+virol	228645	0	virol			virology
+vocabulary	228798	0	vocabulary			
+voc	228798	0	voc			vocabulary
+vocab	228798	0	vocab			vocabulary
+volume	228957	0	volume			
+vol	228957	0	vol			volume
+volumes	229108	0	volumes			
+vols	229108	0	vols			volumes
+voyage	229262	0	voyage			
+voy	229262	0	voy			voyage
+vulgar	229414	0	vulgar			
+vulg	229414	0	vulg			vulgar
+vulgarly	229566	0	vulgarly			
+vulg	229566	0	vulg			vulgarly
+vulgate	229720	0	vulgate			
+vulg	229720	0	vulg			vulgate
+warwickshire	229874	0	warwickshire			
+warwicksh	229874	0	warwicksh			warwickshire
+weak	230032	0	weak			
+wk	230032	0	wk			weak
+wednesday	230181	0	wednesday			
+weds	230181	0	weds			wednesday
+week	230336	0	week			
+wk	230336	0	wk			week
+weekly	230485	0	weekly			
+wkly	230485	0	wkly			weekly
+weight	230637	0	weight			
+wt	230637	0	wt			weight
+west	230788	0	west			
+w	230788	0	w			west
+western	230936	0	western			
+w	230936	0	w			western
+west	230936	0	west			western
+westminster	231092	0	westminster			
+westm	231092	0	westm			westminster
+westmoreland	231247	0	westmoreland			
+westmld	231247	0	westmld			westmoreland
+westmorld	231247	0	westmorld			westmoreland
+westmrld	231247	0	westmrld			westmoreland
+william	231412	0	william			
+will	231412	0	will			william
+wiltshire	231564	0	wiltshire			
+wilts	231564	0	wilts			wiltshire
+wiltsh	231564	0	wiltsh			wiltshire
+window	231722	0	window			
+win	231722	0	win			window
+wisconsin	231873	0	wisconsin			
+wis	231873	0	wis			wisconsin
+wisdom	232026	0	wisdom			
+wisd	232026	0	wisd			wisdom
+wonderful	232177	0	wonderful			
+wonderf	232177	0	wonderf			wonderful
+worcestershire	232332	0	worcestershire			
+worc	232332	0	worc			worcestershire
+worcestersh	232332	0	worcestersh			worcestershire
+worcs	232332	0	worcs			worcestershire
+word	232498	0	word			
+wd	232498	0	wd			word
+work	232646	0	work			
+wk	232646	0	wk			work
+works	232795	0	works			
+wks	232795	0	wks			works
+writing	232945	0	writing			
+writ	232945	0	writ			writing
+yard	233096	0	yard			
+yd	233096	0	yd			yard
+year	233244	0	year			
+yr	233244	0	yr			year
+yearbook	233392	0	yearbook			
+yearbk	233392	0	yearbk			yearbook
+years	233547	0	years			
+yrs	233547	0	yrs			years
+yorkshire	233697	0	yorkshire			
+yorks	233697	0	yorks			yorkshire
+yorksh	233697	0	yorksh			yorkshire
+young	233856	0	young			
+yng	233856	0	yng			young
+ytological	234005	0	ytological			
+cytol	234005	0	cytol			ytological
+zechariah	234160	0	zechariah			
+zech	234160	0	zech			zechariah
+zeitschrift	234315	0	zeitschrift			
+zeitschr	234315	0	zeitschr			zeitschrift
+zephaniah	234473	0	zephaniah			
+zeph	234473	0	zeph			zephaniah
+zoogeography	234628	0	zoogeography			
+zoogeogr	234628	0	zoogeogr			zoogeography
+zoological	234787	0	zoological			
+zool	234787	0	zool			zoological
+zoology	234943	0	zoology			
+zool	234943	0	zool			zoology
